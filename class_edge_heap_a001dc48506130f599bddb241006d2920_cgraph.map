@@ -1,0 +1,12 @@
+<map id="EdgeHeap::removeFront" name="EdgeHeap::removeFront">
+<area shape="rect" id="node2" href="$class_edge_heap.html#a71040389a82aaff7be40c94a95afc357" title="EdgeHeap::removeAt" alt="" coords="217,107,364,133"/>
+<area shape="rect" id="node3" href="$class_edge_heap.html#add248e35c4c2443246ff6c7cd654ae9f" title="EdgeHeap::edgeComparator" alt="" coords="627,107,813,133"/>
+<area shape="rect" id="node10" href="$class_edge_heap.html#af02715f2265926338a4b33135c821a4c" title="EdgeHeap::heapifyDown" alt="" coords="412,107,579,133"/>
+<area shape="rect" id="node11" href="$class_edge_heap.html#afc03f4943c606b1d2617654cfaeeabb6" title="EdgeHeap::heapifyUp" alt="" coords="420,157,571,184"/>
+<area shape="rect" id="node4" href="$class_node.html#a13467fc326459c1d607547b3e9470710" title="Node::getArea" alt="" coords="871,5,978,32"/>
+<area shape="rect" id="node6" href="$class_edge.html#aaaa9cb49c141b310873cd75fd493e22d" title="Edge::getNode1" alt="" coords="867,56,983,83"/>
+<area shape="rect" id="node7" href="$class_edge.html#a50017668f77ed019a5caceafbb1eb16f" title="Edge::getNode2" alt="" coords="867,107,983,133"/>
+<area shape="rect" id="node8" href="$class_node.html#aa3512938403662345b64049920d1cdaf" title="Node::getPosition" alt="" coords="861,157,988,184"/>
+<area shape="rect" id="node9" href="$class_edge.html#a3a776c1ccafacdbdb10fdedd9cb329af" title="Edge::getWeight" alt="" coords="865,208,984,235"/>
+<area shape="rect" id="node5" href="$classregion_model.html#a56b1a22f355e85211760055c7559cd1e" title="regionModel::getArea" alt="" coords="1036,5,1181,32"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="regionModel::setNode" name="regionModel::setNode">
+<area shape="rect" id="node2" href="$class_node.html#a8a60e0e373f3acf5a26036a0b40312a1" title="Node::setModel" alt="" coords="233,107,347,133"/>
+<area shape="rect" id="node16" href="$classcompound_model.html#a62e27efef9340f3c576b354cd0dccb15" title="compoundModel::setNode" alt="" coords="203,157,377,184"/>
+<area shape="rect" id="node3" href="$class_r_a_g.html#aa2de492a3df037db29b0e3ccab5251ee" title="RAG::merge" alt="" coords="447,56,542,83"/>
+<area shape="rect" id="node14" href="$class_node.html#af221340b45ee89667b4a26f3d4b46b1c" title="Node::replaceModel" alt="" coords="425,157,564,184"/>
+<area shape="rect" id="node15" href="$classimage.html#a7934adc398c4b1c001fe38b0500e8341" title="image::selectBoarderSegments" alt="" coords="612,107,816,133"/>
+<area shape="rect" id="node4" href="$class_r_a_g.html#ab09eebb1b704d18b583d528e77f7604a" title="RAG::regionMerging" alt="" coords="644,56,784,83"/>
+<area shape="rect" id="node5" href="$classimageblock.html#abcc69a8c00ad79067185c700463f8126" title="imageblock::createBPT" alt="" coords="864,5,1023,32"/>
+<area shape="rect" id="node10" href="$classimage.html#a12343719e8d96a4bda9c5bd6c035d52a" title="image::mergeBlockX" alt="" coords="872,107,1015,133"/>
+<area shape="rect" id="node12" href="$classimage.html#aa21fc5a07af7528869425e750090b3b8" title="image::mergeBlockY" alt="" coords="872,56,1015,83"/>
+<area shape="rect" id="node6" href="$classimageblock.html#af3b91e3daaa8014af1239f60da6b0bf5" title="imageblock::processing" alt="" coords="1080,5,1239,32"/>
+<area shape="rect" id="node7" href="$classimage.html#ad5a9d767eca6f9bbb8dcb556527edf4d" title="image::ProcessTiles" alt="" coords="1314,5,1455,32"/>
+<area shape="rect" id="node8" href="$classimage.html#a4689c56b85c46d48ea52f0c9fa13891e" title="image::processing" alt="" coords="1521,56,1649,83"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a9a45eb9ebe6d27bcd23677d9fbb74dd8" title="MainWindow::on_Go_clicked" alt="" coords="1697,56,1888,83"/>
+<area shape="rect" id="node11" href="$classimage.html#a83026280ad6cc713ec9489ff3bd9776e" title="image::ProcessBoundaryX" alt="" coords="1296,107,1473,133"/>
+<area shape="rect" id="node13" href="$classimage.html#adf6b8c126649c9a40387f12b5f5f07d5" title="image::ProcessBoundaryY" alt="" coords="1071,56,1248,83"/>
+</map>

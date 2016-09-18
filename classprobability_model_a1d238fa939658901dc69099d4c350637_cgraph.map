@@ -1,0 +1,10 @@
+<map id="probabilityModel::merge" name="probabilityModel::merge">
+<area shape="rect" id="node2" href="$classregion_model.html#a56b1a22f355e85211760055c7559cd1e" title="regionModel::getArea" alt="" coords="243,5,388,32"/>
+<area shape="rect" id="node3" href="$classprobability_model.html#a6a8786c7364018af1aeca4a4fe59cc5e" title="probabilityModel::getClassCost" alt="" coords="213,56,417,83"/>
+<area shape="rect" id="node4" href="$classprobability_model.html#aef8c1f8a7a14f8cc1b4e5458cdc172de" title="probabilityModel::getClass\lProbability" alt="" coords="227,107,403,149"/>
+<area shape="rect" id="node5" href="$classprobability_model.html#a18a9e2d0cd721c41addfe8e910e67c01" title="probabilityModel::getNClasses" alt="" coords="215,173,415,200"/>
+<area shape="rect" id="node6" href="$classprobability_model.html#ac2356304ead700ea3b440261149b57cc" title="probabilityModel::probability\lModel" alt="" coords="224,225,407,266"/>
+<area shape="rect" id="node7" href="$classregion_model.html#a7f6a5d1ab86d69e213ebb81973481330" title="regionModel::setArea" alt="" coords="465,261,611,288"/>
+<area shape="rect" id="node8" href="$classprobability_model.html#ab6946deb86171e935e9f085d103ec3be" title="probabilityModel::setClassCost" alt="" coords="213,341,417,368"/>
+<area shape="rect" id="node9" href="$classprobability_model.html#ab5b9f2804370816e02829af11124b3b5" title="probabilityModel::setClass\lProbability" alt="" coords="227,393,403,434"/>
+</map>

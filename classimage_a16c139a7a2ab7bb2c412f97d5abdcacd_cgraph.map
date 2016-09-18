@@ -1,0 +1,9 @@
+<map id="image::setGlobalSettings" name="image::setGlobalSettings">
+<area shape="rect" id="node2" href="$classimage.html#a6d7fac910481c15802515c36463cfffa" title="image::blockSizeCalculator\l_evenSplite" alt="" coords="237,5,419,47"/>
+<area shape="rect" id="node3" href="$classimage.html#a8a1a7543a50f78a8c07d4a35560ad7ab" title="image::blockStartPointCalculator\l_evenSplite" alt="" coords="221,71,435,112"/>
+<area shape="rect" id="node4" href="$classimage.html#aa50311604615c5027bee9b24cfab49a8" title="image::createEmptyCSV" alt="" coords="245,137,411,163"/>
+<area shape="rect" id="node5" href="$classimage.html#aa3cb332287f2c67f7ab68cfcc386bcd2" title="image::createEmptyImage" alt="" coords="241,187,415,214"/>
+<area shape="rect" id="node6" href="$classimage.html#ad86284aa4e8e75cfc904084479146f2f" title="image::linkFile" alt="" coords="275,238,381,265"/>
+<area shape="rect" id="node8" href="$classimage.html#a95002c780c2c4c6764d01fa4f850f775" title="image::SetStatistics" alt="" coords="258,289,398,315"/>
+<area shape="rect" id="node7" href="$classimage.html#a8a46cfc72e8bbc9b85c431e9a4f6d755" title="image::findImageFormat" alt="" coords="483,238,645,265"/>
+</map>

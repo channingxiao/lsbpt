@@ -1,0 +1,13 @@
+<map id="regionModel::merge" name="regionModel::merge">
+<area shape="rect" id="node2" href="$class_r_a_g.html#aa2de492a3df037db29b0e3ccab5251ee" title="RAG::merge" alt="" coords="189,56,284,83"/>
+<area shape="rect" id="node3" href="$class_r_a_g.html#ab09eebb1b704d18b583d528e77f7604a" title="RAG::regionMerging" alt="" coords="332,56,472,83"/>
+<area shape="rect" id="node4" href="$classimageblock.html#abcc69a8c00ad79067185c700463f8126" title="imageblock::createBPT" alt="" coords="520,5,679,32"/>
+<area shape="rect" id="node9" href="$classimage.html#a12343719e8d96a4bda9c5bd6c035d52a" title="image::mergeBlockX" alt="" coords="735,56,877,83"/>
+<area shape="rect" id="node11" href="$classimage.html#aa21fc5a07af7528869425e750090b3b8" title="image::mergeBlockY" alt="" coords="528,107,671,133"/>
+<area shape="rect" id="node5" href="$classimageblock.html#af3b91e3daaa8014af1239f60da6b0bf5" title="imageblock::processing" alt="" coords="727,5,885,32"/>
+<area shape="rect" id="node6" href="$classimage.html#ad5a9d767eca6f9bbb8dcb556527edf4d" title="image::ProcessTiles" alt="" coords="951,5,1093,32"/>
+<area shape="rect" id="node7" href="$classimage.html#a4689c56b85c46d48ea52f0c9fa13891e" title="image::processing" alt="" coords="1159,56,1287,83"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a9a45eb9ebe6d27bcd23677d9fbb74dd8" title="MainWindow::on_Go_clicked" alt="" coords="1335,56,1525,83"/>
+<area shape="rect" id="node10" href="$classimage.html#a83026280ad6cc713ec9489ff3bd9776e" title="image::ProcessBoundaryX" alt="" coords="933,56,1111,83"/>
+<area shape="rect" id="node12" href="$classimage.html#adf6b8c126649c9a40387f12b5f5f07d5" title="image::ProcessBoundaryY" alt="" coords="933,107,1111,133"/>
+</map>

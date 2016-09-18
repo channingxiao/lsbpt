@@ -1,0 +1,11 @@
+<map id="hooverCompare" name="hooverCompare">
+<area shape="rect" id="node2" href="$hoovermetrics_8cpp.html#a980ac1cda29aeb356b73c655e29800df" title="computerHooverMetrics" alt="" coords="168,5,329,32"/>
+<area shape="rect" id="node3" href="$hoovermetrics_8cpp.html#a857391ba4daaa9af3bacfbdc957611fa" title="computeTable" alt="" coords="197,56,301,83"/>
+<area shape="rect" id="node4" href="$hoovermetrics_8cpp.html#a078de0e3a5a60fd22985db580ed1444c" title="LoadImage" alt="" coords="205,107,292,133"/>
+<area shape="rect" id="node5" href="$hoovermetrics_8cpp.html#a7f145140df94d625254d8cdd1f06fab2" title="paintHoover" alt="" coords="203,157,295,184"/>
+<area shape="rect" id="node7" href="$hoovermetrics_8cpp.html#ad6241cf6cc4352d378a107a43d5f5d84" title="pixelComparator" alt="" coords="190,208,307,235"/>
+<area shape="rect" id="node8" href="$hoovermetrics_8cpp.html#af90d4745151264d1f75469ac189fcf2d" title="readLabelImage" alt="" coords="191,259,306,285"/>
+<area shape="rect" id="node10" href="$hoovermetrics_8cpp.html#ae19e2f2b31293dfc906e287ea3eba3f9" title="regionsClassification" alt="" coords="177,309,320,336"/>
+<area shape="rect" id="node6" href="$classio.html#a193384d41fa525bc99dd3349088aab3c" title="io::createEmptyImage" alt="" coords="377,157,528,184"/>
+<area shape="rect" id="node9" href="$hoovermetrics_8cpp.html#aecdc0de06cc8e89da6c2743ec0c4b74a" title="vectorComparator" alt="" coords="389,259,516,285"/>
+</map>

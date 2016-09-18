@@ -1,0 +1,9 @@
+<map id="Edge::clone" name="Edge::clone">
+<area shape="rect" id="node2" href="$class_edge.html#a9a6f65ea678304262268a5208814a2f2" title="Edge::Edge" alt="" coords="169,5,260,32"/>
+<area shape="rect" id="node3" href="$class_edge.html#a54017590a12f8b5e68641e678f01655f" title="Edge::getHeapIndex" alt="" coords="144,56,285,83"/>
+<area shape="rect" id="node4" href="$class_edge.html#ac5e6bca7dbde5cdd88579b1081ebe1db" title="Edge::getLength" alt="" coords="156,107,273,133"/>
+<area shape="rect" id="node5" href="$class_edge.html#a3a776c1ccafacdbdb10fdedd9cb329af" title="Edge::getWeight" alt="" coords="155,157,274,184"/>
+<area shape="rect" id="node6" href="$class_edge.html#ab8f35e1362c7a7289134f14291aa21b1" title="Edge::setHeapIndex" alt="" coords="144,208,285,235"/>
+<area shape="rect" id="node7" href="$class_edge.html#a9825f846eb203bc2ebe0e5ee4dcf9c3b" title="Edge::setLength" alt="" coords="156,259,273,285"/>
+<area shape="rect" id="node8" href="$class_edge.html#a7ba1bfa5c9c7972d2c31b2c3ba3d7c69" title="Edge::setWeight" alt="" coords="155,309,274,336"/>
+</map>
