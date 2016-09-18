@@ -1,0 +1,23 @@
+digraph "HooverCalculator::~HooverCalculator"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="HooverCalculator::\l~HooverCalculator",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hooverCompare",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$hoovermetrics_8cpp.html#a455a7ff79d9891a057cc18d8b07a60f4"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="LoadImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$hoovermetrics_8cpp.html#a078de0e3a5a60fd22985db580ed1444c"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="readLabelImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$hoovermetrics_8cpp.html#af90d4745151264d1f75469ac189fcf2d"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="computeTable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$hoovermetrics_8cpp.html#a857391ba4daaa9af3bacfbdc957611fa"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="regionsClassification",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$hoovermetrics_8cpp.html#ae19e2f2b31293dfc906e287ea3eba3f9"];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="paintHoover",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$hoovermetrics_8cpp.html#a7f145140df94d625254d8cdd1f06fab2"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="io::createEmptyImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classio.html#a193384d41fa525bc99dd3349088aab3c"];
+  Node2 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="computerHooverMetrics",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$hoovermetrics_8cpp.html#a980ac1cda29aeb356b73c655e29800df"];
+}

@@ -1,0 +1,19 @@
+digraph "compoundModel::clone"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="compoundModel::clone",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="compoundModel::compoundModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#a66e0b4d1d75debf6d14cf58640f96acd"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="histogramModel::clone",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classhistogram_model.html#a774070ff631cfdcf92731cef69088099"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="histogramModel::histogram\lModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classhistogram_model.html#a165ed6726e5911b4332e687618f10a05"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="regionModel::setArea",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classregion_model.html#a7f6a5d1ab86d69e213ebb81973481330"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="compoundModel::setHistogram\lModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#abb85def877d9b37e744b5f355360dcf8"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

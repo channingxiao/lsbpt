@@ -1,0 +1,21 @@
+digraph "compoundModel::printHistogram"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="compoundModel::printHistogram",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="histogramModel::printHistogram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classhistogram_model.html#ada08ac02a2b33896ef234a8ee5756dfb"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="compoundModel::setProbModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#a362e93e0481b5a5b9a3801f505fe99d2"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="compoundModel::getProbModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#aa843ad54b59e7a02a3b85a0b8578a750"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="compoundModel::getProbability",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#ac7f2c9358e0ac7945d02d160f5999a5f"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="probabilityModel::getProbability",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classprobability_model.html#ad168dd659368dab81336fade44084bb8"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="compoundModel::getMeanSpectrum",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#a3b415a65b71a0db08f189f9c351f9f80"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="histogramModel::getMeanSpectrum",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classhistogram_model.html#acf84f499612ad9ce391e9c5bd58d224c"];
+}

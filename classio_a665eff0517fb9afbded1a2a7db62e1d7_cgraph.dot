@@ -1,0 +1,17 @@
+digraph "io::bestSegmentation"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="io::bestSegmentation",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Node::isLeaf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_node.html#a3a61dca67d5ad06cacb8c48eb6374973"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Node::getLeftChild",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_node.html#a498a3ea76df240287b5a91aeaec2be95"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Node::getRightChild",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_node.html#a531a8178f01a328bec4c4e8a3b93b67f"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Node::getModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_node.html#adcc7f26a2ccf3a8fcc387ed820624d99"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="regionModel::cutCost",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classregion_model.html#ab26eb4d56d4663e98c071266382d5e1c"];
+}
