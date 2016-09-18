@@ -1,0 +1,15 @@
+digraph "~ImageCropper"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="~ImageCropper",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="blockSizeCalculator\l_evenSplite",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_image_cropper.html#ac79ba9e1bc27535c7c056790ba27d3a4"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="blockStartPointCalculator\l_evenSplite",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_image_cropper.html#ad7ba543bb81b3f076222182d03b4d98b"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="cropImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_image_cropper.html#ae4594fc818c3403e3ba0d060e9d567dd"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="linkedFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_image_cropper.html#ae2829f4499da4ac6456ae933dc4ab0df"];
+}

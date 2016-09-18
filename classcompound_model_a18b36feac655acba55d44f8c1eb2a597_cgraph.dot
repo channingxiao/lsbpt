@@ -1,0 +1,21 @@
+digraph "printHistogram"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="printHistogram",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="histogramModel::printHistogram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classhistogram_model.html#a18b36feac655acba55d44f8c1eb2a597"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="setProbModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#a9a7773cab16989f7580cf71f9777a138"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="getProbModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#ac4a965ad41a1f60b520be75f53139529"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="getProbability",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#a53c1a2ed2199a9d6b029bb664ba9e899"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="probabilityModel::getProbability",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classprobability_model.html#a53c1a2ed2199a9d6b029bb664ba9e899"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="getMeanSpectrum",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcompound_model.html#aa77f6b508b4f552ed4cd6eda60c9c1d8"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="histogramModel::getMeanSpectrum",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classhistogram_model.html#aa77f6b508b4f552ed4cd6eda60c9c1d8"];
+}

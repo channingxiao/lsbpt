@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['std',['std',['../classhistogram_model.html#a9a3fe81447a705192b1755093458d4ce',1,'histogramModel']]]
+  ['std',['std',['../classhistogram_model.html#ac4a5889001f8645436e4ad6f0996da2e',1,'histogramModel']]]
 ];

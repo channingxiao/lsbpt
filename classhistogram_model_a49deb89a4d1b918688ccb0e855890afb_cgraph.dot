@@ -1,0 +1,13 @@
+digraph "getOrder"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="getOrder",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="getBand",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classhistogram_model.html#aec98aee070f96bcff5ed825729329faf"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="statistics::EMD",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatistics.html#a814bb435ce3a0a97b2e7a13f49685913"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="statistics::abs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classstatistics.html#a5761fff325312cbd59d12de3e7d177fe"];
+}

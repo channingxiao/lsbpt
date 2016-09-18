@@ -1,0 +1,21 @@
+digraph "setGlobalSettings"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="setGlobalSettings",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="linkFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classimage.html#a355391d8e3753eae854c97670ca3d900"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="findImageFormat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classimage.html#a57347f50664b4f67c40cc9a32314f1dc"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="blockSizeCalculator\l_evenSplite",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classimage.html#ac79ba9e1bc27535c7c056790ba27d3a4"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="blockStartPointCalculator\l_evenSplite",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classimage.html#ad7ba543bb81b3f076222182d03b4d98b"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="createEmptyImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classimage.html#ad951996fe9b5fd1dc545280e13b1b092"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="createEmptyCSV",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classimage.html#ab546015cc9b4e7554c766cc39bb05aee"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="SetStatistics",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classimage.html#ab87eb22619cdb5de771fad8454bdc65c"];
+}

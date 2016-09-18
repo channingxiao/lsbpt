@@ -1,0 +1,21 @@
+digraph "clone"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="clone",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Edge",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_edge.html#a4a135d06e14b757c7cc55b5ddb1c56f8"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="setWeight",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_edge.html#a0e714b0d6ff9faf693d7dbe6b452ebd6"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="getWeight",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_edge.html#ad7bf538ca1cf1d4d108235c5304c458b"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="setLength",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_edge.html#aa5cc06c446043131c4ad2ccafee622a4"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="getLength",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_edge.html#a2b56bd5085229d76aecb269198f77b2d"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="setHeapIndex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_edge.html#a120bb251c9355d00320bdf1d9cc9f02b"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="getHeapIndex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_edge.html#af2f46e399341bfe43e4e0b39ff7ccf2d"];
+}

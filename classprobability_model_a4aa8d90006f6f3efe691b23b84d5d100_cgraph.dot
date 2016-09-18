@@ -1,0 +1,24 @@
+digraph "merge"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="merge",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="probabilityModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classprobability_model.html#a08ea3556b5a3812d3287ac2255c99a8a"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="regionModel::setArea",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classregion_model.html#afe1244b3b13a41fad08d9e0d5b5751f0"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="regionModel::getArea",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classregion_model.html#a80caee5614644b9a58695e488b84ab34"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="getNClasses",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classprobability_model.html#a9a1655fd00a860cc870bdcfe68b22f99"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="getClassProbability",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classprobability_model.html#a7196544694e68c795ed47cff705158d6"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="setClassProbability",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classprobability_model.html#a637ef2bda90a8ea6fec71accabbc9752"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="getClassCost",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classprobability_model.html#a945d8c57350b619f866376ab970cba38"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="setClassCost",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classprobability_model.html#a30c4c6021945a5b96dd84777df208b39"];
+}

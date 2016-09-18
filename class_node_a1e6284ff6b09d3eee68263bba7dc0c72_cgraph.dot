@@ -1,0 +1,16 @@
+digraph "releaseTree"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="releaseTree",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="isLeaf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_node.html#a9b57b1e6093ef03a48de206e1fe0d5fe"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="getModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_node.html#a412d0d4c9e031df3f73aac5ad0f1fa08"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="getLeftChild",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_node.html#a8a4d7053614ca51e96eeee9c4b86000f"];
+  Node1 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="getRightChild",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_node.html#a4e1a39b09be4bef30b2f6919653ed38d"];
+}
