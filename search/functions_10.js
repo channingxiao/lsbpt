@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['update',['update',['../class_edge_heap.html#ad66bfbeff7358de46c610032abdce3e4',1,'EdgeHeap']]]
+  ['update',['update',['../class_edge_heap.html#a7d8eaf4111da4c024feb5f2fb8d7cafa',1,'EdgeHeap']]]
 ];
