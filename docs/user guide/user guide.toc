@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Installation}{2}
+\contentsline {subsection}{\numberline {2.1}Linux and Mac OS X}{2}
+\contentsline {section}{\numberline {3}Run a segmentation}{2}
+\contentsline {subsection}{\numberline {3.1} Processing a part of the image}{4}
+\contentsline {subsection}{\numberline {3.2} Processing with tiling strategy}{4}
+\contentsline {subsection}{\numberline {3.3} Delete outliers }{4}
+\contentsline {subsection}{\numberline {3.4} Parameters for constructing BPTs and segmentation}{4}
+\contentsline {subsection}{\numberline {3.5} Multi-scale segmentation and classification }{5}
+\contentsline {subsection}{\numberline {3.6} Add probability model }{5}
