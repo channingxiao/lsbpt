@@ -6,7 +6,7 @@
 <area shape="rect" id="node6" href="$classimageblock.html#a88334e439d9ee9478549d1d79f5a111b" title="imageblock::loadProbabilities" alt="" coords="424,1208,615,1235"/>
 <area shape="rect" id="node7" href="$classimageblock.html#ac6939816448430096ee781ea2ad19de1" title="imageblock::InitializeRag" alt="" coords="435,1259,603,1285"/>
 <area shape="rect" id="node8" href="$classimageblock.html#abcc69a8c00ad79067185c700463f8126" title="imageblock::createBPT" alt="" coords="440,904,599,931"/>
-<area shape="rect" id="node36" href="$classio.html#a665eff0517fb9afbded1a2a7db62e1d7" title="io::bestSegmentation" alt="" coords="898,1235,1043,1261"/>
+<area shape="rect" id="node36" href="$classio.html#a51779ac390d81e68077752ddf9ee2042" title="io::bestSegmentation" alt="" coords="898,1235,1043,1261"/>
 <area shape="rect" id="node41" href="$classimageblock.html#adbafde60f699582250656ddc2ebe82e2" title="imageblock::saveToDisk" alt="" coords="663,1360,829,1387"/>
 <area shape="rect" id="node48" href="$class_node.html#adaaa531eae8cc809934f80b09ad8224e" title="Node::releaseTree" alt="" coords="906,1309,1035,1336"/>
 <area shape="rect" id="node5" href="$classio.html#add747be06f0048c8ff9f6f7a2d54636d" title="io::read2Mat" alt="" coords="699,1157,793,1184"/>

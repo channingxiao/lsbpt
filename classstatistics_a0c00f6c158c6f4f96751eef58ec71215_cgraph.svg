@@ -9,21 +9,21 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 24)">
 <title>statistics::EMD</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-24 203,-24 203,4 -4,4"/>
-<!-- Node1 -->
-<g id="node1" class="node"><title>Node1</title>
+<!-- Node13 -->
+<g id="node1" class="node"><title>Node13</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-19.5 85,-19.5 85,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="42.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">statistics::EMD</text>
 </g>
-<!-- Node2 -->
-<g id="node2" class="node"><title>Node2</title>
+<!-- Node14 -->
+<g id="node2" class="node"><title>Node14</title>
 <g id="a_node2"><a xlink:href="classstatistics.html#aa63d258cdab5c6a5b6f5c15a791ea828" target="_top" xlink:title="statistics::abs">
 <polygon fill="white" stroke="black" points="121,-0.5 121,-19.5 199,-19.5 199,-0.5 121,-0.5"/>
 <text text-anchor="middle" x="160" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">statistics::abs</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
+<!-- Node13&#45;&gt;Node14 -->
+<g id="edge1" class="edge"><title>Node13&#45;&gt;Node14</title>
 <path fill="none" stroke="midnightblue" d="M85.1982,-10C93.467,-10 102.213,-10 110.681,-10"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="110.821,-13.5001 120.821,-10 110.821,-6.5001 110.821,-13.5001"/>
 </g>

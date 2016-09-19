@@ -9,14 +9,14 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 122.5)">
 <title>ImageCropper::on_cut_clicked</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-122.5 324,-122.5 324,4 -4,4"/>
-<!-- Node1 -->
-<g id="node1" class="node"><title>Node1</title>
+<!-- Node20 -->
+<g id="node1" class="node"><title>Node20</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-39 0,-69 113,-69 113,-39 0,-39"/>
 <text text-anchor="start" x="8" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">ImageCropper::on_cut</text>
 <text text-anchor="middle" x="56.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">_clicked</text>
 </g>
-<!-- Node2 -->
-<g id="node2" class="node"><title>Node2</title>
+<!-- Node21 -->
+<g id="node2" class="node"><title>Node21</title>
 <g id="a_node2"><a xlink:href="class_image_cropper.html#ab0cb97e2922370c6b95303e4bf34656f" target="_top" xlink:title="ImageCropper::blockSizeCalculator\l_evenSplite">
 <polygon fill="white" stroke="black" points="149,-88 149,-118 320,-118 320,-88 149,-88"/>
 <text text-anchor="start" x="157" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">ImageCropper::blockSizeCalculator</text>
@@ -24,13 +24,13 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
+<!-- Node20&#45;&gt;Node21 -->
+<g id="edge1" class="edge"><title>Node20&#45;&gt;Node21</title>
 <path fill="none" stroke="midnightblue" d="M111.742,-69.1014C130.062,-74.2019 150.683,-79.9429 169.675,-85.2305"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="168.865,-88.638 179.437,-87.9484 170.742,-81.8945 168.865,-88.638"/>
 </g>
-<!-- Node3 -->
-<g id="node3" class="node"><title>Node3</title>
+<!-- Node22 -->
+<g id="node3" class="node"><title>Node22</title>
 <g id="a_node3"><a xlink:href="class_image_cropper.html#a440ea2f358a92ae72c57e68f4fb65823" target="_top" xlink:title="ImageCropper::blockStart\lPointCalculator_evenSplite">
 <polygon fill="white" stroke="black" points="167.5,-39 167.5,-69 301.5,-69 301.5,-39 167.5,-39"/>
 <text text-anchor="start" x="175.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">ImageCropper::blockStart</text>
@@ -38,21 +38,21 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge"><title>Node1&#45;&gt;Node3</title>
+<!-- Node20&#45;&gt;Node22 -->
+<g id="edge2" class="edge"><title>Node20&#45;&gt;Node22</title>
 <path fill="none" stroke="midnightblue" d="M113.188,-54C127.18,-54 142.437,-54 157.244,-54"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="157.401,-57.5001 167.401,-54 157.401,-50.5001 157.401,-57.5001"/>
 </g>
-<!-- Node4 -->
-<g id="node4" class="node"><title>Node4</title>
+<!-- Node23 -->
+<g id="node4" class="node"><title>Node23</title>
 <g id="a_node4"><a xlink:href="class_image_cropper.html#a551ae2d897c1cb1a23810f8c3413c3c8" target="_top" xlink:title="ImageCropper::cropImage">
 <polygon fill="white" stroke="black" points="169.5,-0.5 169.5,-19.5 299.5,-19.5 299.5,-0.5 169.5,-0.5"/>
 <text text-anchor="middle" x="234.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageCropper::cropImage</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node4 -->
-<g id="edge3" class="edge"><title>Node1&#45;&gt;Node4</title>
+<!-- Node20&#45;&gt;Node23 -->
+<g id="edge3" class="edge"><title>Node20&#45;&gt;Node23</title>
 <path fill="none" stroke="midnightblue" d="M113.09,-39.1899C124.929,-36.1 137.368,-32.9017 149,-30 159.751,-27.3181 171.294,-24.5276 182.288,-21.9119"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="183.267,-25.2769 192.192,-19.567 181.655,-18.4652 183.267,-25.2769"/>
 </g>

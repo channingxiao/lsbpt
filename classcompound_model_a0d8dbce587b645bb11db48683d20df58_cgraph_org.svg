@@ -9,26 +9,26 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 188)">
 <title>compoundModel::getOrder</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-188 607,-188 607,4 -4,4"/>
-<!-- Node1 -->
-<g id="node1" class="node"><title>Node1</title>
+<!-- Node37 -->
+<g id="node1" class="node"><title>Node37</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-76.5 0,-95.5 131,-95.5 131,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="65.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">compoundModel::getOrder</text>
 </g>
-<!-- Node2 -->
-<g id="node2" class="node"><title>Node2</title>
+<!-- Node38 -->
+<g id="node2" class="node"><title>Node38</title>
 <g id="a_node2"><a xlink:href="classregion_model.html#a56b1a22f355e85211760055c7559cd1e" target="_top" xlink:title="regionModel::getArea">
 <polygon fill="white" stroke="black" points="189.5,-164.5 189.5,-183.5 298.5,-183.5 298.5,-164.5 189.5,-164.5"/>
 <text text-anchor="middle" x="244" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">regionModel::getArea</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
+<!-- Node37&#45;&gt;Node38 -->
+<g id="edge1" class="edge"><title>Node37&#45;&gt;Node38</title>
 <path fill="none" stroke="midnightblue" d="M77.4519,-95.5077C95.11,-110.356 131.495,-139.003 167,-155 172.402,-157.434 178.166,-159.589 184.012,-161.491"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="183.296,-164.931 193.881,-164.456 185.311,-158.227 183.296,-164.931"/>
 </g>
-<!-- Node3 -->
-<g id="node3" class="node"><title>Node3</title>
+<!-- Node39 -->
+<g id="node3" class="node"><title>Node39</title>
 <g id="a_node3"><a xlink:href="classcompound_model.html#af472d21073ced49f2636abf687bae5ac" target="_top" xlink:title="compoundModel::getHistogram\lModel">
 <polygon fill="white" stroke="black" points="168,-115 168,-145 320,-145 320,-115 168,-115"/>
 <text text-anchor="start" x="176" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">compoundModel::getHistogram</text>
@@ -36,52 +36,52 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge"><title>Node1&#45;&gt;Node3</title>
+<!-- Node37&#45;&gt;Node39 -->
+<g id="edge2" class="edge"><title>Node37&#45;&gt;Node39</title>
 <path fill="none" stroke="midnightblue" d="M104.798,-95.5473C124.67,-100.501 149.58,-106.711 172.759,-112.49"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="172.018,-115.912 182.567,-114.935 173.711,-109.12 172.018,-115.912"/>
 </g>
-<!-- Node4 -->
-<g id="node4" class="node"><title>Node4</title>
+<!-- Node40 -->
+<g id="node4" class="node"><title>Node40</title>
 <g id="a_node4"><a xlink:href="classprobability_model.html#ab4cc3a47b3779fa2db1ec7ddc0bb8598" target="_top" xlink:title="probabilityModel::getOrder">
 <polygon fill="white" stroke="black" points="178.5,-76.5 178.5,-95.5 309.5,-95.5 309.5,-76.5 178.5,-76.5"/>
 <text text-anchor="middle" x="244" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">probabilityModel::getOrder</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node4 -->
-<g id="edge3" class="edge"><title>Node1&#45;&gt;Node4</title>
+<!-- Node37&#45;&gt;Node40 -->
+<g id="edge3" class="edge"><title>Node37&#45;&gt;Node40</title>
 <path fill="none" stroke="midnightblue" d="M131.22,-86C143.211,-86 155.826,-86 168.09,-86"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="168.288,-89.5001 178.288,-86 168.288,-82.5001 168.288,-89.5001"/>
 </g>
-<!-- Node6 -->
-<g id="node6" class="node"><title>Node6</title>
+<!-- Node42 -->
+<g id="node6" class="node"><title>Node42</title>
 <g id="a_node6"><a xlink:href="classhistogram_model.html#acbfc41aa0afb26c7b68bf644ebb18ef2" target="_top" xlink:title="histogramModel::getOrder">
 <polygon fill="white" stroke="black" points="179.5,-38.5 179.5,-57.5 308.5,-57.5 308.5,-38.5 179.5,-38.5"/>
 <text text-anchor="middle" x="244" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">histogramModel::getOrder</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node6 -->
-<g id="edge5" class="edge"><title>Node1&#45;&gt;Node6</title>
+<!-- Node37&#45;&gt;Node42 -->
+<g id="edge5" class="edge"><title>Node37&#45;&gt;Node42</title>
 <path fill="none" stroke="midnightblue" d="M111.038,-76.411C134.644,-71.3287 163.832,-65.0446 188.751,-59.6797"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="189.743,-63.0465 198.782,-57.5201 188.269,-56.2033 189.743,-63.0465"/>
 </g>
-<!-- Node10 -->
-<g id="node10" class="node"><title>Node10</title>
+<!-- Node46 -->
+<g id="node10" class="node"><title>Node46</title>
 <g id="a_node10"><a xlink:href="classcompound_model.html#aa843ad54b59e7a02a3b85a0b8578a750" target="_top" xlink:title="compoundModel::getProbModel">
 <polygon fill="white" stroke="black" points="167,-0.5 167,-19.5 321,-19.5 321,-0.5 167,-0.5"/>
 <text text-anchor="middle" x="244" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">compoundModel::getProbModel</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node10 -->
-<g id="edge9" class="edge"><title>Node1&#45;&gt;Node10</title>
+<!-- Node37&#45;&gt;Node46 -->
+<g id="edge9" class="edge"><title>Node37&#45;&gt;Node46</title>
 <path fill="none" stroke="midnightblue" d="M80.5282,-76.4068C99.411,-63.8849 134.407,-42.0352 167,-29 173.194,-26.5229 179.804,-24.2976 186.443,-22.3185"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="187.465,-25.6669 196.147,-19.5943 185.573,-18.9275 187.465,-25.6669"/>
 </g>
-<!-- Node5 -->
-<g id="node5" class="node"><title>Node5</title>
+<!-- Node41 -->
+<g id="node5" class="node"><title>Node41</title>
 <g id="a_node5"><a xlink:href="classprobability_model.html#aef8c1f8a7a14f8cc1b4e5458cdc172de" target="_top" xlink:title="probabilityModel::getClass\lProbability">
 <polygon fill="white" stroke="black" points="357,-77 357,-107 489,-107 489,-77 357,-77"/>
 <text text-anchor="start" x="365" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">probabilityModel::getClass</text>
@@ -89,47 +89,47 @@
 </a>
 </g>
 </g>
-<!-- Node4&#45;&gt;Node5 -->
-<g id="edge4" class="edge"><title>Node4&#45;&gt;Node5</title>
+<!-- Node40&#45;&gt;Node41 -->
+<g id="edge4" class="edge"><title>Node40&#45;&gt;Node41</title>
 <path fill="none" stroke="midnightblue" d="M309.652,-88.1916C321.688,-88.5996 334.36,-89.0291 346.683,-89.4469"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="346.817,-92.9533 356.93,-89.7942 347.054,-85.9574 346.817,-92.9533"/>
 </g>
-<!-- Node7 -->
-<g id="node7" class="node"><title>Node7</title>
+<!-- Node43 -->
+<g id="node7" class="node"><title>Node43</title>
 <g id="a_node7"><a xlink:href="classhistogram_model.html#ab171013400b0a10066024167eb2da058" target="_top" xlink:title="histogramModel::getBand">
 <polygon fill="white" stroke="black" points="359,-38.5 359,-57.5 487,-57.5 487,-38.5 359,-38.5"/>
 <text text-anchor="middle" x="423" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">histogramModel::getBand</text>
 </a>
 </g>
 </g>
-<!-- Node6&#45;&gt;Node7 -->
-<g id="edge6" class="edge"><title>Node6&#45;&gt;Node7</title>
+<!-- Node42&#45;&gt;Node43 -->
+<g id="edge6" class="edge"><title>Node42&#45;&gt;Node43</title>
 <path fill="none" stroke="midnightblue" d="M308.901,-48C321.842,-48 335.545,-48 348.779,-48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="348.786,-51.5001 358.786,-48 348.786,-44.5001 348.786,-51.5001"/>
 </g>
-<!-- Node8 -->
-<g id="node8" class="node"><title>Node8</title>
+<!-- Node44 -->
+<g id="node8" class="node"><title>Node44</title>
 <g id="a_node8"><a xlink:href="classstatistics.html#a0c00f6c158c6f4f96751eef58ec71215" target="_top" xlink:title="statistics::EMD">
 <polygon fill="white" stroke="black" points="380.5,-0.5 380.5,-19.5 465.5,-19.5 465.5,-0.5 380.5,-0.5"/>
 <text text-anchor="middle" x="423" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">statistics::EMD</text>
 </a>
 </g>
 </g>
-<!-- Node6&#45;&gt;Node8 -->
-<g id="edge7" class="edge"><title>Node6&#45;&gt;Node8</title>
+<!-- Node42&#45;&gt;Node44 -->
+<g id="edge7" class="edge"><title>Node42&#45;&gt;Node44</title>
 <path fill="none" stroke="midnightblue" d="M289.665,-38.411C314.256,-33.1314 344.889,-26.5549 370.487,-21.0592"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="371.347,-24.4545 380.39,-18.9333 369.878,-17.6104 371.347,-24.4545"/>
 </g>
-<!-- Node9 -->
-<g id="node9" class="node"><title>Node9</title>
+<!-- Node45 -->
+<g id="node9" class="node"><title>Node45</title>
 <g id="a_node9"><a xlink:href="classstatistics.html#aa63d258cdab5c6a5b6f5c15a791ea828" target="_top" xlink:title="statistics::abs">
 <polygon fill="white" stroke="black" points="525,-0.5 525,-19.5 603,-19.5 603,-0.5 525,-0.5"/>
 <text text-anchor="middle" x="564" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">statistics::abs</text>
 </a>
 </g>
 </g>
-<!-- Node8&#45;&gt;Node9 -->
-<g id="edge8" class="edge"><title>Node8&#45;&gt;Node9</title>
+<!-- Node44&#45;&gt;Node45 -->
+<g id="edge8" class="edge"><title>Node44&#45;&gt;Node45</title>
 <path fill="none" stroke="midnightblue" d="M465.705,-10C481.055,-10 498.57,-10 514.47,-10"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="514.647,-13.5001 524.647,-10 514.647,-6.5001 514.647,-13.5001"/>
 </g>

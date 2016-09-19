@@ -1,5 +1,5 @@
 <map id="probabilityModel::setClassCost" name="probabilityModel::setClassCost">
-<area shape="rect" id="node2" href="$classinitializer.html#a7d6751316b1f5c2a7ac376b3328b3f0e" title="initializer::addProbModel" alt="" coords="267,5,431,32"/>
+<area shape="rect" id="node2" href="$classinitializer.html#a4ec133b0fb36848a96b6f8c07e125dcf" title="initializer::addProbModel" alt="" coords="267,5,431,32"/>
 <area shape="rect" id="node3" href="$classprobability_model.html#a1d238fa939658901dc69099d4c350637" title="probabilityModel::merge" alt="" coords="269,56,429,83"/>
 <area shape="rect" id="node5" href="$classprobability_model.html#a1f213bc1c3d19c771963d9c0a61cbbef" title="probabilityModel::probability\lModel" alt="" coords="257,107,440,149"/>
 <area shape="rect" id="node6" href="$classprobability_model.html#a13f9f1c1f0baf00207d5e93cb2a93d66" title="probabilityModel::setClass\lCostsWithProbability" alt="" coords="261,173,437,214"/>

@@ -9,86 +9,86 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>EdgeHeap::edgeComparator</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-176 420,-176 420,4 -4,4"/>
-<!-- Node1 -->
-<g id="node1" class="node"><title>Node1</title>
+<!-- Node6 -->
+<g id="node1" class="node"><title>Node6</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-76.5 0,-95.5 140,-95.5 140,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="70" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">EdgeHeap::edgeComparator</text>
 </g>
-<!-- Node2 -->
-<g id="node2" class="node"><title>Node2</title>
+<!-- Node7 -->
+<g id="node2" class="node"><title>Node7</title>
 <g id="a_node2"><a xlink:href="class_node.html#a13467fc326459c1d607547b3e9470710" target="_top" xlink:title="Node::getArea">
 <polygon fill="white" stroke="black" points="183.5,-152.5 183.5,-171.5 263.5,-171.5 263.5,-152.5 183.5,-152.5"/>
 <text text-anchor="middle" x="223.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">Node::getArea</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
+<!-- Node6&#45;&gt;Node7 -->
+<g id="edge1" class="edge"><title>Node6&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M87.4398,-95.6545C107.867,-107.479 143.949,-127.808 176,-143 179.901,-144.849 184.032,-146.693 188.158,-148.466"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="187.09,-151.812 197.666,-152.439 189.789,-145.354 187.09,-151.812"/>
 </g>
-<!-- Node4 -->
-<g id="node4" class="node"><title>Node4</title>
+<!-- Node9 -->
+<g id="node4" class="node"><title>Node9</title>
 <g id="a_node4"><a xlink:href="class_edge.html#aaaa9cb49c141b310873cd75fd493e22d" target="_top" xlink:title="Edge::getNode1">
 <polygon fill="white" stroke="black" points="180,-114.5 180,-133.5 267,-133.5 267,-114.5 180,-114.5"/>
 <text text-anchor="middle" x="223.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">Edge::getNode1</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node4 -->
-<g id="edge3" class="edge"><title>Node1&#45;&gt;Node4</title>
+<!-- Node6&#45;&gt;Node9 -->
+<g id="edge3" class="edge"><title>Node6&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M109.23,-95.589C129.132,-100.581 153.657,-106.732 174.791,-112.033"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="173.994,-115.442 184.545,-114.48 175.697,-108.652 173.994,-115.442"/>
 </g>
-<!-- Node5 -->
-<g id="node5" class="node"><title>Node5</title>
+<!-- Node10 -->
+<g id="node5" class="node"><title>Node10</title>
 <g id="a_node5"><a xlink:href="class_edge.html#a50017668f77ed019a5caceafbb1eb16f" target="_top" xlink:title="Edge::getNode2">
 <polygon fill="white" stroke="black" points="180,-76.5 180,-95.5 267,-95.5 267,-76.5 180,-76.5"/>
 <text text-anchor="middle" x="223.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">Edge::getNode2</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node5 -->
-<g id="edge4" class="edge"><title>Node1&#45;&gt;Node5</title>
+<!-- Node6&#45;&gt;Node10 -->
+<g id="edge4" class="edge"><title>Node6&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M140.1,-86C150.072,-86 160.199,-86 169.782,-86"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="169.935,-89.5001 179.935,-86 169.935,-82.5001 169.935,-89.5001"/>
 </g>
-<!-- Node6 -->
-<g id="node6" class="node"><title>Node6</title>
+<!-- Node11 -->
+<g id="node6" class="node"><title>Node11</title>
 <g id="a_node6"><a xlink:href="class_node.html#aa3512938403662345b64049920d1cdaf" target="_top" xlink:title="Node::getPosition">
 <polygon fill="white" stroke="black" points="176,-38.5 176,-57.5 271,-57.5 271,-38.5 176,-38.5"/>
 <text text-anchor="middle" x="223.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">Node::getPosition</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node6 -->
-<g id="edge5" class="edge"><title>Node1&#45;&gt;Node6</title>
+<!-- Node6&#45;&gt;Node11 -->
+<g id="edge5" class="edge"><title>Node6&#45;&gt;Node11</title>
 <path fill="none" stroke="midnightblue" d="M109.23,-76.411C129.132,-71.4191 153.657,-65.2676 174.791,-59.9666"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="175.697,-63.3479 184.545,-57.5201 173.994,-56.5582 175.697,-63.3479"/>
 </g>
-<!-- Node7 -->
-<g id="node7" class="node"><title>Node7</title>
+<!-- Node12 -->
+<g id="node7" class="node"><title>Node12</title>
 <g id="a_node7"><a xlink:href="class_edge.html#a3a776c1ccafacdbdb10fdedd9cb329af" target="_top" xlink:title="Edge::getWeight">
 <polygon fill="white" stroke="black" points="179,-0.5 179,-19.5 268,-19.5 268,-0.5 179,-0.5"/>
 <text text-anchor="middle" x="223.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Edge::getWeight</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node7 -->
-<g id="edge6" class="edge"><title>Node1&#45;&gt;Node7</title>
+<!-- Node6&#45;&gt;Node12 -->
+<g id="edge6" class="edge"><title>Node6&#45;&gt;Node12</title>
 <path fill="none" stroke="midnightblue" d="M87.4398,-76.3455C107.867,-64.5206 143.949,-44.1916 176,-29 179.901,-27.1511 184.032,-25.3068 188.158,-23.5345"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="189.789,-26.6464 197.666,-19.5614 187.09,-20.1875 189.789,-26.6464"/>
 </g>
-<!-- Node3 -->
-<g id="node3" class="node"><title>Node3</title>
+<!-- Node8 -->
+<g id="node3" class="node"><title>Node8</title>
 <g id="a_node3"><a xlink:href="classregion_model.html#a56b1a22f355e85211760055c7559cd1e" target="_top" xlink:title="regionModel::getArea">
 <polygon fill="white" stroke="black" points="307,-152.5 307,-171.5 416,-171.5 416,-152.5 307,-152.5"/>
 <text text-anchor="middle" x="361.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">regionModel::getArea</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node3 -->
-<g id="edge2" class="edge"><title>Node2&#45;&gt;Node3</title>
+<!-- Node7&#45;&gt;Node8 -->
+<g id="edge2" class="edge"><title>Node7&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M263.837,-162C274.108,-162 285.446,-162 296.635,-162"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="296.833,-165.5 306.833,-162 296.833,-158.5 296.833,-165.5"/>
 </g>

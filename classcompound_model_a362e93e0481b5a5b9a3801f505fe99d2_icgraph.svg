@@ -9,34 +9,34 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>compoundModel::setProbModel</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-62 352,-62 352,4 -4,4"/>
-<!-- Node1 -->
-<g id="node1" class="node"><title>Node1</title>
+<!-- Node100 -->
+<g id="node1" class="node"><title>Node100</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-19.5 0,-38.5 154,-38.5 154,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="77" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">compoundModel::setProbModel</text>
 </g>
-<!-- Node2 -->
-<g id="node2" class="node"><title>Node2</title>
+<!-- Node101 -->
+<g id="node2" class="node"><title>Node101</title>
 <g id="a_node2"><a xlink:href="classcompound_model.html#a3a4f1be5ccd6230918036dcc56328033" target="_top" xlink:title="compoundModel::merge">
 <polygon fill="white" stroke="black" points="208.5,-38.5 208.5,-57.5 329.5,-57.5 329.5,-38.5 208.5,-38.5"/>
 <text text-anchor="middle" x="269" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">compoundModel::merge</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
+<!-- Node100&#45;&gt;Node101 -->
+<g id="edge1" class="edge"><title>Node100&#45;&gt;Node101</title>
 <path fill="none" stroke="midnightblue" d="M164.43,-37.643C179.319,-39.1319 194.491,-40.6491 208.467,-42.0467"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="164.484,-34.131 154.185,-36.6185 163.788,-41.0963 164.484,-34.131"/>
 </g>
-<!-- Node3 -->
-<g id="node3" class="node"><title>Node3</title>
+<!-- Node102 -->
+<g id="node3" class="node"><title>Node102</title>
 <g id="a_node3"><a xlink:href="classcompound_model.html#a0e02676235e30f43e3c574304593706b" target="_top" xlink:title="compoundModel::printHistogram">
 <polygon fill="white" stroke="black" points="190,-0.5 190,-19.5 348,-19.5 348,-0.5 190,-0.5"/>
 <text text-anchor="middle" x="269" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">compoundModel::printHistogram</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge"><title>Node1&#45;&gt;Node3</title>
+<!-- Node100&#45;&gt;Node102 -->
+<g id="edge2" class="edge"><title>Node100&#45;&gt;Node102</title>
 <path fill="none" stroke="midnightblue" d="M164.194,-20.3806C172.773,-19.5227 181.447,-18.6553 189.936,-17.8064"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="163.788,-16.9037 154.185,-21.3815 164.484,-23.869 163.788,-16.9037"/>
 </g>

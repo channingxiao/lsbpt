@@ -55,139 +55,139 @@ var sectionId = 'dynsection-2';
 <g id="viewport">
 <title>HooverCalculator::on_ComputeHoover_clicked</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-252 561,-252 561,4 -4,4"/>
-<!-- Node1 -->
-<g id="node1" class="node"><title>Node1</title>
+<!-- Node4 -->
+<g id="node1" class="node"><title>Node4</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-109 0,-139 129,-139 129,-109 0,-109"/>
 <text text-anchor="start" x="8" y="-127" font-family="Helvetica,sans-Serif" font-size="10.00">HooverCalculator::on</text>
 <text text-anchor="middle" x="64.5" y="-116" font-family="Helvetica,sans-Serif" font-size="10.00">_ComputeHoover_clicked</text>
 </g>
-<!-- Node2 -->
-<g id="node2" class="node"><title>Node2</title>
+<!-- Node5 -->
+<g id="node2" class="node"><title>Node5</title>
 <g id="a_node2"><a xlink:href="hoovermetrics_8cpp.html#a455a7ff79d9891a057cc18d8b07a60f4" target="_top" xlink:title="hooverCompare">
 <polygon fill="white" stroke="black" points="165,-114.5 165,-133.5 251,-133.5 251,-114.5 165,-114.5"/>
 <text text-anchor="middle" x="208" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">hooverCompare</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
+<!-- Node4&#45;&gt;Node5 -->
+<g id="edge1" class="edge"><title>Node4&#45;&gt;Node5</title>
 <path fill="none" stroke="midnightblue" d="M129.213,-124C137.672,-124 146.266,-124 154.506,-124"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="154.716,-127.5 164.716,-124 154.716,-120.5 154.716,-127.5"/>
 </g>
-<!-- Node3 -->
-<g id="node3" class="node"><title>Node3</title>
+<!-- Node6 -->
+<g id="node3" class="node"><title>Node6</title>
 <g id="a_node3"><a xlink:href="hoovermetrics_8cpp.html#a980ac1cda29aeb356b73c655e29800df" target="_top" xlink:title="computerHooverMetrics">
 <polygon fill="white" stroke="black" points="287,-228.5 287,-247.5 408,-247.5 408,-228.5 287,-228.5"/>
 <text text-anchor="middle" x="347.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">computerHooverMetrics</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node3 -->
-<g id="edge2" class="edge"><title>Node2&#45;&gt;Node3</title>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge2" class="edge"><title>Node5&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M214.31,-133.631C225.334,-152.744 252.567,-195.633 287,-219 289.915,-220.978 293.048,-222.76 296.297,-224.364"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="295.108,-227.663 305.676,-228.427 297.891,-221.24 295.108,-227.663"/>
 </g>
-<!-- Node4 -->
-<g id="node4" class="node"><title>Node4</title>
+<!-- Node7 -->
+<g id="node4" class="node"><title>Node7</title>
 <g id="a_node4"><a xlink:href="hoovermetrics_8cpp.html#a857391ba4daaa9af3bacfbdc957611fa" target="_top" xlink:title="computeTable">
 <polygon fill="white" stroke="black" points="308.5,-190.5 308.5,-209.5 386.5,-209.5 386.5,-190.5 308.5,-190.5"/>
 <text text-anchor="middle" x="347.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">computeTable</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node4 -->
-<g id="edge3" class="edge"><title>Node2&#45;&gt;Node4</title>
+<!-- Node5&#45;&gt;Node7 -->
+<g id="edge3" class="edge"><title>Node5&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M219.626,-133.515C233.991,-145.951 260.833,-167.705 287,-181 291.305,-183.187 295.913,-185.189 300.588,-187.002"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="299.608,-190.369 310.202,-190.461 301.977,-183.783 299.608,-190.369"/>
 </g>
-<!-- Node5 -->
-<g id="node5" class="node"><title>Node5</title>
+<!-- Node8 -->
+<g id="node5" class="node"><title>Node8</title>
 <g id="a_node5"><a xlink:href="hoovermetrics_8cpp.html#a078de0e3a5a60fd22985db580ed1444c" target="_top" xlink:title="LoadImage">
 <polygon fill="white" stroke="black" points="315,-152.5 315,-171.5 380,-171.5 380,-152.5 315,-152.5"/>
 <text text-anchor="middle" x="347.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">LoadImage</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node5 -->
-<g id="edge4" class="edge"><title>Node2&#45;&gt;Node5</title>
+<!-- Node5&#45;&gt;Node8 -->
+<g id="edge4" class="edge"><title>Node5&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M243.697,-133.589C262.26,-138.719 285.254,-145.074 304.785,-150.472"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="304.071,-153.905 314.642,-153.195 305.935,-147.158 304.071,-153.905"/>
 </g>
-<!-- Node6 -->
-<g id="node6" class="node"><title>Node6</title>
+<!-- Node9 -->
+<g id="node6" class="node"><title>Node9</title>
 <g id="a_node6"><a xlink:href="hoovermetrics_8cpp.html#a7f145140df94d625254d8cdd1f06fab2" target="_top" xlink:title="paintHoover">
 <polygon fill="white" stroke="black" points="313,-114.5 313,-133.5 382,-133.5 382,-114.5 313,-114.5"/>
 <text text-anchor="middle" x="347.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">paintHoover</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node6 -->
-<g id="edge5" class="edge"><title>Node2&#45;&gt;Node6</title>
+<!-- Node5&#45;&gt;Node9 -->
+<g id="edge5" class="edge"><title>Node5&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M251.002,-124C267.198,-124 285.741,-124 302.152,-124"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="302.583,-127.5 312.583,-124 302.583,-120.5 302.583,-127.5"/>
 </g>
-<!-- Node8 -->
-<g id="node8" class="node"><title>Node8</title>
+<!-- Node11 -->
+<g id="node8" class="node"><title>Node11</title>
 <g id="a_node8"><a xlink:href="hoovermetrics_8cpp.html#ad6241cf6cc4352d378a107a43d5f5d84" target="_top" xlink:title="pixelComparator">
 <polygon fill="white" stroke="black" points="303.5,-76.5 303.5,-95.5 391.5,-95.5 391.5,-76.5 303.5,-76.5"/>
 <text text-anchor="middle" x="347.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">pixelComparator</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node8 -->
-<g id="edge7" class="edge"><title>Node2&#45;&gt;Node8</title>
+<!-- Node5&#45;&gt;Node11 -->
+<g id="edge7" class="edge"><title>Node5&#45;&gt;Node11</title>
 <path fill="none" stroke="midnightblue" d="M243.697,-114.411C261.366,-109.528 283.049,-103.536 301.939,-98.315"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="303.108,-101.623 311.814,-95.5859 301.243,-94.8762 303.108,-101.623"/>
 </g>
-<!-- Node9 -->
-<g id="node9" class="node"><title>Node9</title>
+<!-- Node12 -->
+<g id="node9" class="node"><title>Node12</title>
 <g id="a_node9"><a xlink:href="hoovermetrics_8cpp.html#af90d4745151264d1f75469ac189fcf2d" target="_top" xlink:title="readLabelImage">
 <polygon fill="white" stroke="black" points="304.5,-38.5 304.5,-57.5 390.5,-57.5 390.5,-38.5 304.5,-38.5"/>
 <text text-anchor="middle" x="347.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">readLabelImage</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node9 -->
-<g id="edge8" class="edge"><title>Node2&#45;&gt;Node9</title>
+<!-- Node5&#45;&gt;Node12 -->
+<g id="edge8" class="edge"><title>Node5&#45;&gt;Node12</title>
 <path fill="none" stroke="midnightblue" d="M219.626,-114.485C233.991,-102.049 260.833,-80.295 287,-67 291.305,-64.8127 295.913,-62.8115 300.588,-60.9977"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="301.977,-64.2174 310.202,-57.5386 299.608,-57.6307 301.977,-64.2174"/>
 </g>
-<!-- Node11 -->
-<g id="node11" class="node"><title>Node11</title>
+<!-- Node14 -->
+<g id="node11" class="node"><title>Node14</title>
 <g id="a_node11"><a xlink:href="hoovermetrics_8cpp.html#ae19e2f2b31293dfc906e287ea3eba3f9" target="_top" xlink:title="regionsClassification">
 <polygon fill="white" stroke="black" points="294,-0.5 294,-19.5 401,-19.5 401,-0.5 294,-0.5"/>
 <text text-anchor="middle" x="347.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">regionsClassification</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node11 -->
-<g id="edge10" class="edge"><title>Node2&#45;&gt;Node11</title>
+<!-- Node5&#45;&gt;Node14 -->
+<g id="edge10" class="edge"><title>Node5&#45;&gt;Node14</title>
 <path fill="none" stroke="midnightblue" d="M214.31,-114.369C225.334,-95.2561 252.567,-52.3666 287,-29 289.915,-27.022 293.048,-25.2401 296.297,-23.6363"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="297.891,-26.7602 305.676,-19.5734 295.108,-20.337 297.891,-26.7602"/>
 </g>
-<!-- Node7 -->
-<g id="node7" class="node"><title>Node7</title>
+<!-- Node10 -->
+<g id="node7" class="node"><title>Node10</title>
 <g id="a_node7"><a xlink:href="classio.html#a193384d41fa525bc99dd3349088aab3c" target="_top" xlink:title="io::createEmptyImage">
 <polygon fill="white" stroke="black" points="444,-114.5 444,-133.5 557,-133.5 557,-114.5 444,-114.5"/>
 <text text-anchor="middle" x="500.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">io::createEmptyImage</text>
 </a>
 </g>
 </g>
-<!-- Node6&#45;&gt;Node7 -->
-<g id="edge6" class="edge"><title>Node6&#45;&gt;Node7</title>
+<!-- Node9&#45;&gt;Node10 -->
+<g id="edge6" class="edge"><title>Node9&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M382.012,-124C397.192,-124 415.692,-124 433.48,-124"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="433.84,-127.5 443.839,-124 433.839,-120.5 433.84,-127.5"/>
 </g>
-<!-- Node10 -->
-<g id="node10" class="node"><title>Node10</title>
+<!-- Node13 -->
+<g id="node10" class="node"><title>Node13</title>
 <g id="a_node10"><a xlink:href="hoovermetrics_8cpp.html#aecdc0de06cc8e89da6c2743ec0c4b74a" target="_top" xlink:title="vectorComparator">
 <polygon fill="white" stroke="black" points="453,-38.5 453,-57.5 548,-57.5 548,-38.5 453,-38.5"/>
 <text text-anchor="middle" x="500.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">vectorComparator</text>
 </a>
 </g>
 </g>
-<!-- Node9&#45;&gt;Node10 -->
-<g id="edge9" class="edge"><title>Node9&#45;&gt;Node10</title>
+<!-- Node12&#45;&gt;Node13 -->
+<g id="edge9" class="edge"><title>Node12&#45;&gt;Node13</title>
 <path fill="none" stroke="midnightblue" d="M390.562,-48C406.756,-48 425.523,-48 442.87,-48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="442.889,-51.5001 452.889,-48 442.889,-44.5001 442.889,-51.5001"/>
 </g>

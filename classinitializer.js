@@ -1,17 +1,17 @@
 var classinitializer =
 [
-    [ "addEdges", "classinitializer.html#af25116f6ca0979e447a4a266bceba2b8", null ],
-    [ "addEmpytHistModel", "classinitializer.html#a185b3137db547e0c744a681a1d3b6865", null ],
-    [ "addHistModel", "classinitializer.html#aa4fcf9ad2f9efb5fae8e77811d4e6e3b", null ],
-    [ "addHistModel", "classinitializer.html#ab8004f55c19e098d816265481ec7ba50", null ],
-    [ "addHistogramOneBand", "classinitializer.html#aa315823e6c3455573740efe22f5e37bf", null ],
-    [ "addMeanSpectrumInformation", "classinitializer.html#a3a0a3b7d501da7d257c7fcde47020188", null ],
-    [ "addNodesToRAG", "classinitializer.html#ac913dd83c53fb4742e64a92cd8904ba4", null ],
-    [ "addProbModel", "classinitializer.html#a7d6751316b1f5c2a7ac376b3328b3f0e", null ],
-    [ "connect", "classinitializer.html#af23e5a2f80a74bce9caccbf86a028c96", null ],
+    [ "addEdges", "classinitializer.html#a3b9f79140d510e7aea1287bfe891e8b9", null ],
+    [ "addEmpytHistModel", "classinitializer.html#aae2e2bacda8c250dd464c6a6277c3e7b", null ],
+    [ "addHistModel", "classinitializer.html#a9dbe89a61cf3b4276e5bde588683f884", null ],
+    [ "addHistModel", "classinitializer.html#ac1a65f7662c47820586ee53caa2f57bc", null ],
+    [ "addHistogramOneBand", "classinitializer.html#a459bcf5b7cfda1574645022b056e56b7", null ],
+    [ "addMeanSpectrumInformation", "classinitializer.html#abd20b131db84059d6767a887ffd28fac", null ],
+    [ "addNodesToRAG", "classinitializer.html#a9b3d57fc96d70a9ed2c0dd185ce7115e", null ],
+    [ "addProbModel", "classinitializer.html#a4ec133b0fb36848a96b6f8c07e125dcf", null ],
+    [ "connect", "classinitializer.html#a900944d3d61eb5da03b64cd96e8dac8e", null ],
     [ "createNodeMatrix", "classinitializer.html#ac5edfb9421710ba998db242a96e38393", null ],
     [ "createNodeMatrix2", "classinitializer.html#ac8c273b80f0bb09170ee8dfefb11bd33", null ],
-    [ "initializeRag", "classinitializer.html#ae6d34d311f884ceb489b3043a011864c", null ],
+    [ "initializeRag", "classinitializer.html#aaa8cb78ad7655020875fa970001d899e", null ],
     [ "multispectralImageToRAG", "classinitializer.html#af391acfbf6db4c606b064f45e34adf0b", null ],
     [ "multispectralImageToRAG2", "classinitializer.html#ad7aa4f1e943a4cc67bbe234c7fecf643", null ]
 ];

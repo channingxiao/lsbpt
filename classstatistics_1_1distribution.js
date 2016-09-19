@@ -1,7 +1,7 @@
 var classstatistics_1_1distribution =
 [
-    [ "getMax", "classstatistics_1_1distribution.html#ac6c9aa925db1f786995da692a9ad8454", null ],
-    [ "getMin", "classstatistics_1_1distribution.html#afa99b6e60043891735341dc0cc4586ad", null ],
+    [ "getMax", "classstatistics_1_1distribution.html#a84c8147d3251425a293c7e6097478a04", null ],
+    [ "getMin", "classstatistics_1_1distribution.html#a509be81262675fff67bc9e51865b1ea1", null ],
     [ "getNbins", "classstatistics_1_1distribution.html#a7fff43718bd9fa439739f69690d6c0ab", null ],
     [ "getProb", "classstatistics_1_1distribution.html#a2358620128eda6491b2099bdc06547d1", null ],
     [ "getValAt", "classstatistics_1_1distribution.html#afe0b1de1f3f9609162a6473e4dc73ad2", null ],

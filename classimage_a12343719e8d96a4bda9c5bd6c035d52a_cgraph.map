@@ -1,17 +1,17 @@
 <map id="image::mergeBlockX" name="image::mergeBlockX">
-<area shape="rect" id="node2" href="$classio.html#a665eff0517fb9afbded1a2a7db62e1d7" title="io::bestSegmentation" alt="" coords="425,157,571,184"/>
-<area shape="rect" id="node8" href="$classinitializer.html#ae6d34d311f884ceb489b3043a011864c" title="initializer::initializeRag" alt="" coords="196,588,348,615"/>
+<area shape="rect" id="node2" href="$classio.html#a51779ac390d81e68077752ddf9ee2042" title="io::bestSegmentation" alt="" coords="425,157,571,184"/>
+<area shape="rect" id="node8" href="$classinitializer.html#aaa8cb78ad7655020875fa970001d899e" title="initializer::initializeRag" alt="" coords="196,588,348,615"/>
 <area shape="rect" id="node19" href="$class_r_a_g.html#ab09eebb1b704d18b583d528e77f7604a" title="RAG::regionMerging" alt="" coords="202,1069,342,1096"/>
 <area shape="rect" id="node43" href="$class_node.html#adaaa531eae8cc809934f80b09ad8224e" title="Node::releaseTree" alt="" coords="433,283,563,309"/>
-<area shape="rect" id="node44" href="$classimage.html#a3a11f9e84755d71dd86e6161f633dd80" title="image::saveToDisk" alt="" coords="205,208,339,235"/>
-<area shape="rect" id="node49" href="$classimage.html#a7934adc398c4b1c001fe38b0500e8341" title="image::selectBoarderSegments" alt="" coords="396,1677,600,1704"/>
+<area shape="rect" id="node44" href="$classimage.html#a7e28689cc7a6843dece1f0a5b92fa3b1" title="image::saveToDisk" alt="" coords="205,208,339,235"/>
+<area shape="rect" id="node49" href="$classimage.html#a96cc6f2b2f3b5c2e283623872ada5fc7" title="image::selectBoarderSegments" alt="" coords="396,1677,600,1704"/>
 <area shape="rect" id="node3" href="$class_node.html#a3a61dca67d5ad06cacb8c48eb6374973" title="Node::isLeaf" alt="" coords="683,208,779,235"/>
 <area shape="rect" id="node4" href="$class_node.html#a498a3ea76df240287b5a91aeaec2be95" title="Node::getLeftChild" alt="" coords="665,107,796,133"/>
 <area shape="rect" id="node5" href="$class_node.html#a531a8178f01a328bec4c4e8a3b93b67f" title="Node::getRightChild" alt="" coords="661,157,801,184"/>
 <area shape="rect" id="node6" href="$class_node.html#adcc7f26a2ccf3a8fcc387ed820624d99" title="Node::getModel" alt="" coords="673,360,788,387"/>
 <area shape="rect" id="node7" href="$classregion_model.html#ab26eb4d56d4663e98c071266382d5e1c" title="regionModel::cutCost" alt="" coords="657,56,804,83"/>
 <area shape="rect" id="node9" href="$class_r_a_g.html#a4e34b15e71e8f54f5268766d551beb8c" title="RAG::addNode" alt="" coords="443,639,553,665"/>
-<area shape="rect" id="node10" href="$classinitializer.html#af25116f6ca0979e447a4a266bceba2b8" title="initializer::addEdges" alt="" coords="429,588,567,615"/>
+<area shape="rect" id="node10" href="$classinitializer.html#a3b9f79140d510e7aea1287bfe891e8b9" title="initializer::addEdges" alt="" coords="429,588,567,615"/>
 <area shape="rect" id="node11" href="$class_node.html#ac514917c2beff2faebf1e48760cc6b40" title="Node::nodeComparator_X" alt="" coords="1089,385,1263,412"/>
 <area shape="rect" id="node12" href="$class_node.html#aa3512938403662345b64049920d1cdaf" title="Node::getPosition" alt="" coords="1317,348,1444,375"/>
 <area shape="rect" id="node13" href="$classregion_model.html#a822975b706699cc553f92035581246bc" title="regionModel::getOrder" alt="" coords="655,664,806,691"/>

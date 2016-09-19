@@ -8,7 +8,7 @@ var class_edge =
     [ "getNode1", "class_edge.html#aaaa9cb49c141b310873cd75fd493e22d", null ],
     [ "getNode2", "class_edge.html#a50017668f77ed019a5caceafbb1eb16f", null ],
     [ "getWeight", "class_edge.html#a3a776c1ccafacdbdb10fdedd9cb329af", null ],
-    [ "isForward", "class_edge.html#a5948c0276c0aca4a2d0dd6eac1405d4f", null ],
+    [ "isForward", "class_edge.html#acef74bc7c499159b1ff51e276d41f118", null ],
     [ "replace", "class_edge.html#a1101ec58432af810fc3a2d2234af5efb", null ],
     [ "setForward", "class_edge.html#ac01c48ec2f28d9a69adea9220de1fecb", null ],
     [ "setHeapIndex", "class_edge.html#ab8f35e1362c7a7289134f14291aa21b1", null ],

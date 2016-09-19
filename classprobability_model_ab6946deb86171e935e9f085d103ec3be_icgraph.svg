@@ -9,39 +9,39 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 160.5)">
 <title>probabilityModel::setClassCost</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-160.5 487,-160.5 487,4 -4,4"/>
-<!-- Node1 -->
-<g id="node1" class="node"><title>Node1</title>
+<!-- Node78 -->
+<g id="node1" class="node"><title>Node78</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-77 0,-96 153,-96 153,-77 0,-77"/>
 <text text-anchor="middle" x="76.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">probabilityModel::setClassCost</text>
 </g>
-<!-- Node2 -->
-<g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="classinitializer.html#a7d6751316b1f5c2a7ac376b3328b3f0e" target="_top" xlink:title="initializer::addProbModel">
+<!-- Node79 -->
+<g id="node2" class="node"><title>Node79</title>
+<g id="a_node2"><a xlink:href="classinitializer.html#a4ec133b0fb36848a96b6f8c07e125dcf" target="_top" xlink:title="initializer::addProbModel">
 <polygon fill="white" stroke="black" points="196,-137 196,-156 319,-156 319,-137 196,-137"/>
 <text text-anchor="middle" x="257.5" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">initializer::addProbModel</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
+<!-- Node78&#45;&gt;Node79 -->
+<g id="edge1" class="edge"><title>Node78&#45;&gt;Node79</title>
 <path fill="none" stroke="midnightblue" d="M111.216,-99.6771C133.21,-108.079 162.627,-118.954 189,-127.5 199.192,-130.803 210.352,-134.08 220.612,-136.959"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="112.261,-96.329 101.671,-96.008 109.749,-102.863 112.261,-96.329"/>
 </g>
-<!-- Node3 -->
-<g id="node3" class="node"><title>Node3</title>
+<!-- Node80 -->
+<g id="node3" class="node"><title>Node80</title>
 <g id="a_node3"><a xlink:href="classprobability_model.html#a1d238fa939658901dc69099d4c350637" target="_top" xlink:title="probabilityModel::merge">
 <polygon fill="white" stroke="black" points="197.5,-99 197.5,-118 317.5,-118 317.5,-99 197.5,-99"/>
 <text text-anchor="middle" x="257.5" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">probabilityModel::merge</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge"><title>Node1&#45;&gt;Node3</title>
+<!-- Node78&#45;&gt;Node80 -->
+<g id="edge2" class="edge"><title>Node78&#45;&gt;Node80</title>
 <path fill="none" stroke="midnightblue" d="M163.265,-97.041C174.819,-98.461 186.456,-99.8912 197.404,-101.237"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="163.505,-93.5442 153.153,-95.7981 162.651,-100.492 163.505,-93.5442"/>
 </g>
-<!-- Node5 -->
-<g id="node5" class="node"><title>Node5</title>
+<!-- Node82 -->
+<g id="node5" class="node"><title>Node82</title>
 <g id="a_node5"><a xlink:href="classprobability_model.html#a1f213bc1c3d19c771963d9c0a61cbbef" target="_top" xlink:title="probabilityModel::probability\lModel">
 <polygon fill="white" stroke="black" points="189,-49.5 189,-79.5 326,-79.5 326,-49.5 189,-49.5"/>
 <text text-anchor="start" x="197" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">probabilityModel::probability</text>
@@ -49,13 +49,13 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node5 -->
-<g id="edge4" class="edge"><title>Node1&#45;&gt;Node5</title>
+<!-- Node78&#45;&gt;Node82 -->
+<g id="edge4" class="edge"><title>Node78&#45;&gt;Node82</title>
 <path fill="none" stroke="midnightblue" d="M163.195,-75.9676C171.784,-74.912 180.42,-73.8506 188.786,-72.8224"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="162.651,-72.5081 153.153,-77.2019 163.505,-79.4558 162.651,-72.5081"/>
 </g>
-<!-- Node6 -->
-<g id="node6" class="node"><title>Node6</title>
+<!-- Node83 -->
+<g id="node6" class="node"><title>Node83</title>
 <g id="a_node6"><a xlink:href="classprobability_model.html#a13f9f1c1f0baf00207d5e93cb2a93d66" target="_top" xlink:title="probabilityModel::setClass\lCostsWithProbability">
 <polygon fill="white" stroke="black" points="191.5,-0.5 191.5,-30.5 323.5,-30.5 323.5,-0.5 191.5,-0.5"/>
 <text text-anchor="start" x="199.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">probabilityModel::setClass</text>
@@ -63,21 +63,21 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node6 -->
-<g id="edge5" class="edge"><title>Node1&#45;&gt;Node6</title>
+<!-- Node78&#45;&gt;Node83 -->
+<g id="edge5" class="edge"><title>Node78&#45;&gt;Node83</title>
 <path fill="none" stroke="midnightblue" d="M109.335,-73.0039C131.57,-63.6665 161.991,-51.0689 189,-40.5 197.379,-37.2212 206.384,-33.8092 215,-30.5983"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="107.897,-69.8116 100.039,-76.9179 110.613,-76.263 107.897,-69.8116"/>
 </g>
-<!-- Node4 -->
-<g id="node4" class="node"><title>Node4</title>
+<!-- Node81 -->
+<g id="node4" class="node"><title>Node81</title>
 <g id="a_node4"><a xlink:href="classcompound_model.html#a3a4f1be5ccd6230918036dcc56328033" target="_top" xlink:title="compoundModel::merge">
 <polygon fill="white" stroke="black" points="362,-99 362,-118 483,-118 483,-99 362,-99"/>
 <text text-anchor="middle" x="422.5" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">compoundModel::merge</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node4 -->
-<g id="edge3" class="edge"><title>Node3&#45;&gt;Node4</title>
+<!-- Node80&#45;&gt;Node81 -->
+<g id="edge3" class="edge"><title>Node80&#45;&gt;Node81</title>
 <path fill="none" stroke="midnightblue" d="M328.059,-108.5C339.345,-108.5 350.944,-108.5 361.963,-108.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="327.808,-105 317.808,-108.5 327.808,-112 327.808,-105"/>
 </g>

@@ -9,47 +9,47 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>Graphical Class Hierarchy</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-100 233,-100 233,4 -4,4"/>
-<!-- Node1 -->
-<g id="node1" class="node"><title>Node1</title>
+<!-- Node7 -->
+<g id="node1" class="node"><title>Node7</title>
 <polygon fill="white" stroke="#bfbfbf" points="0,-38.5 0,-57.5 80,-57.5 80,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="40" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">QMainWindow</text>
 </g>
-<!-- Node2 -->
-<g id="node2" class="node"><title>Node2</title>
+<!-- Node0 -->
+<g id="node2" class="node"><title>Node0</title>
 <g id="a_node2"><a xlink:href="class_image_cropper.html" target="_top" xlink:title="ImageCropper">
 <polygon fill="white" stroke="black" points="133.5,-76.5 133.5,-95.5 211.5,-95.5 211.5,-76.5 133.5,-76.5"/>
 <text text-anchor="middle" x="172.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageCropper</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
+<!-- Node7&#45;&gt;Node0 -->
+<g id="edge1" class="edge"><title>Node7&#45;&gt;Node0</title>
 <path fill="none" stroke="midnightblue" d="M83.5518,-60.3906C101.423,-65.5945 121.89,-71.5541 138.58,-76.4141"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="84.5104,-57.0244 73.9307,-57.589 82.5534,-63.7453 84.5104,-57.0244"/>
 </g>
-<!-- Node3 -->
-<g id="node3" class="node"><title>Node3</title>
+<!-- Node9 -->
+<g id="node3" class="node"><title>Node9</title>
 <g id="a_node3"><a xlink:href="class_main_window.html" target="_top" xlink:title="MainWindow">
 <polygon fill="white" stroke="black" points="136,-38.5 136,-57.5 209,-57.5 209,-38.5 136,-38.5"/>
 <text text-anchor="middle" x="172.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">MainWindow</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge"><title>Node1&#45;&gt;Node3</title>
+<!-- Node7&#45;&gt;Node9 -->
+<g id="edge2" class="edge"><title>Node7&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M90.4015,-48C105.546,-48 121.902,-48 135.932,-48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="90.1543,-44.5001 80.1543,-48 90.1543,-51.5001 90.1543,-44.5001"/>
 </g>
-<!-- Node4 -->
-<g id="node4" class="node"><title>Node4</title>
+<!-- Node10 -->
+<g id="node4" class="node"><title>Node10</title>
 <g id="a_node4"><a xlink:href="class_probability_file_cropper.html" target="_top" xlink:title="ProbabilityFileCropper">
 <polygon fill="white" stroke="black" points="116,-0.5 116,-19.5 229,-19.5 229,-0.5 116,-0.5"/>
 <text text-anchor="middle" x="172.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">ProbabilityFileCropper</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node4 -->
-<g id="edge3" class="edge"><title>Node1&#45;&gt;Node4</title>
+<!-- Node7&#45;&gt;Node10 -->
+<g id="edge3" class="edge"><title>Node7&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M83.5518,-35.6094C101.423,-30.4055 121.89,-24.4459 138.58,-19.5859"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="82.5534,-32.2547 73.9307,-38.411 84.5104,-38.9756 82.5534,-32.2547"/>
 </g>

@@ -8,7 +8,7 @@ var classprobability_model =
     [ "computeRegionCost", "classprobability_model.html#a0bf2a56a4beb79297881611fe65e12d5", null ],
     [ "cutCost", "classprobability_model.html#a93730846f752dea968b81c2e9d087ff7", null ],
     [ "getClassCost", "classprobability_model.html#a6a8786c7364018af1aeca4a4fe59cc5e", null ],
-    [ "getClassCosts", "classprobability_model.html#ac61fa88489033485929535a55f772cf6", null ],
+    [ "getClassCosts", "classprobability_model.html#a06397dcbca9d65d03122671e98e8d931", null ],
     [ "getClassProbabilities", "classprobability_model.html#ae8fd1733faa657dacad9784a5e44f9fb", null ],
     [ "getClassProbability", "classprobability_model.html#aef8c1f8a7a14f8cc1b4e5458cdc172de", null ],
     [ "getLowestCost", "classprobability_model.html#a6a0f16c8f720853cd23856f663be0ccc", null ],

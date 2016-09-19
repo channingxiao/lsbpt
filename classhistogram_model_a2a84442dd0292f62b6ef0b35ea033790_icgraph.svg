@@ -9,21 +9,21 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 24)">
 <title>histogramModel::merge</title>
 <polygon fill="white" stroke="none" points="-4,4 -4,-24 280,-24 280,4 -4,4"/>
-<!-- Node1 -->
-<g id="node1" class="node"><title>Node1</title>
+<!-- Node78 -->
+<g id="node1" class="node"><title>Node78</title>
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-19.5 119,-19.5 119,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="59.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">histogramModel::merge</text>
 </g>
-<!-- Node2 -->
-<g id="node2" class="node"><title>Node2</title>
+<!-- Node79 -->
+<g id="node2" class="node"><title>Node79</title>
 <g id="a_node2"><a xlink:href="classcompound_model.html#a3a4f1be5ccd6230918036dcc56328033" target="_top" xlink:title="compoundModel::merge">
 <polygon fill="white" stroke="black" points="155,-0.5 155,-19.5 276,-19.5 276,-0.5 155,-0.5"/>
 <text text-anchor="middle" x="215.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">compoundModel::merge</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
+<!-- Node78&#45;&gt;Node79 -->
+<g id="edge1" class="edge"><title>Node78&#45;&gt;Node79</title>
 <path fill="none" stroke="midnightblue" d="M129.174,-10C137.782,-10 146.53,-10 154.982,-10"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="129.16,-6.5001 119.16,-10 129.16,-13.5001 129.16,-6.5001"/>
 </g>

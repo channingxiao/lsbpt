@@ -1,5 +1,5 @@
 <map id="regionModel::cutCost" name="regionModel::cutCost">
-<area shape="rect" id="node2" href="$classio.html#a665eff0517fb9afbded1a2a7db62e1d7" title="io::bestSegmentation" alt="" coords="200,56,345,83"/>
+<area shape="rect" id="node2" href="$classio.html#a51779ac390d81e68077752ddf9ee2042" title="io::bestSegmentation" alt="" coords="200,56,345,83"/>
 <area shape="rect" id="node3" href="$classimage.html#a12343719e8d96a4bda9c5bd6c035d52a" title="image::mergeBlockX" alt="" coords="401,5,544,32"/>
 <area shape="rect" id="node7" href="$classimage.html#aa21fc5a07af7528869425e750090b3b8" title="image::mergeBlockY" alt="" coords="401,56,544,83"/>
 <area shape="rect" id="node9" href="$classimageblock.html#af3b91e3daaa8014af1239f60da6b0bf5" title="imageblock::processing" alt="" coords="393,107,552,133"/>
