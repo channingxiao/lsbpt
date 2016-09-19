@@ -1,12 +1,11 @@
 About
 ===============
-LSBPT is softwear based on a new framework for multi-class image segmentation using a binary partition tree. It can cooperate with color infornmation, probability infornmation and shape information, some of which can be used or omitted depending on the information available and the application itself. For large-scale images, by using a tile-based scheme, it enables us to process arbitrarily large images with a limited memory and computation resources. Experiments prove that the algorithm can segment large images efficiently while ensuring quite similar results with respect to processing the whole image at once.
+LSBPT is software based on a new framework for multi-class image segmentation using a binary partition tree. It can cooperate with color information, probability information and shape information, some of which can be used or omitted depending on the information available and the application itself. For large-scale images, by using a tile-based scheme, it enables us to process arbitrarily large images with a limited memory and computation resources. Experiments prove that the algorithm can segment large images efficiently while ensuring quite similar results with respect to processing the whole image at once.
 
 Download
 ---------
 The latest binaries and source of LSBPT can be downloaded from:
 * https://github.com/channingxiao/lsbpt.git
-
 
 
 Installation
@@ -20,8 +19,10 @@ LSBPT is a Qt Widgets application developed with qt4, it has been tested under L
 
 Edit the "LSBPT.pro" in src folder to configure the library dependencies. 
 
-### Linux and Mac OS X}
+##### Linux and Mac OS X
+
 Once you solve the dependencies , follow the instructions to compile.
+
 1. git clone https://github.com/channingxiao/lsbpt.git
 2. cd lsbpt
 3. mkdir build 
@@ -34,6 +35,16 @@ After compiling, you'll find the executable file "LSBPT" in ~/lsbpt/build/apps, 
 
 If you are using Qt creator, use "Open project" and select the "LSBPT.pro" under 
 lsbpt/src ", then follow the instructions to configure  and compile the project.
+
+##### Windows
+
+The installation on windows has not been tested, if you succeed to compile it on windows, please let us know.
+
+
+Contact information
+--------------------
+If you have any questions or suggestions about the software, please contact me.
+Email : chunlinxiao18@gmail.com
 
 
 
