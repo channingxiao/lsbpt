@@ -1,0 +1,11 @@
+<map id="regionModel::getMeanSpectrum" name="regionModel::getMeanSpectrum">
+<area shape="rect" id="node2" href="$dc/d8f/class_node.html#a5560fab35ef65b0bf137c7c70c3b8e4d" title="Node::getMeanSpectrum" alt="" coords="260,56,427,83"/>
+<area shape="rect" id="node3" href="$d9/da1/classio.html#a4cca3fdf98e917cac1b3e776c7634aec" title="io::writeBoarderNodeToCSV" alt="" coords="475,56,661,83"/>
+<area shape="rect" id="node4" href="$d8/dd2/classimageblock.html#adbafde60f699582250656ddc2ebe82e2" title="imageblock::saveToDisk" alt="" coords="729,5,896,32"/>
+<area shape="rect" id="node9" href="$d1/ded/classimage.html#aa04b765a3c2cc6860a22ebfbedbcd7fc" title="image::saveToDisk" alt="" coords="745,56,880,83"/>
+<area shape="rect" id="node10" href="$d9/da1/classio.html#af3def6eac9bbdd2a12de24104be3acd6" title="io::writeBoarderNodeSetToCSV" alt="" coords="709,107,916,133"/>
+<area shape="rect" id="node5" href="$d8/dd2/classimageblock.html#af3b91e3daaa8014af1239f60da6b0bf5" title="imageblock::processing" alt="" coords="964,5,1123,32"/>
+<area shape="rect" id="node6" href="$d1/ded/classimage.html#ad5a9d767eca6f9bbb8dcb556527edf4d" title="image::ProcessTiles" alt="" coords="1171,5,1312,32"/>
+<area shape="rect" id="node7" href="$d1/ded/classimage.html#a4689c56b85c46d48ea52f0c9fa13891e" title="image::processing" alt="" coords="1360,5,1488,32"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a9a45eb9ebe6d27bcd23677d9fbb74dd8" title="MainWindow::on_Go_clicked" alt="" coords="1536,5,1727,32"/>
+</map>
