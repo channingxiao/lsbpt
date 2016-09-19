@@ -71,12 +71,36 @@ $(document).ready(function(){initNavTree('index.html','');});
 <div class="title">About </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>LSBPT is softwear based on a new framework for multi-class image segmentation using a binary partition tree. It can cooperate with color infornmation, probability infornmation and shape information, some of which can be used or omitted depending on the information available and the application itself. For large-scale images, by using a tile-based scheme, it enables us to process arbitrarily large images with a limited memory and computation resources. Experiments prove that the algorithm can segment large images efficiently while ensuring quite similar results with respect to processing the whole image at once.</p>
+<div class="textblock"><p>LSBPT is software based on a new framework for multi-class image segmentation using a binary partition tree. It can cooperate with color information, probability information and shape information, some of which can be used or omitted depending on the information available and the application itself. For large-scale images, by using a tile-based scheme, it enables us to process arbitrarily large images with a limited memory and computation resources. Experiments prove that the algorithm can segment large images efficiently while ensuring quite similar results with respect to processing the whole image at once.</p>
 <h2>Download </h2>
 <p>The latest binaries and source of LSBPT can be downloaded from:</p><ul>
 <li><a href="https://github.com/channingxiao/lsbpt.git">https://github.com/channingxiao/lsbpt.git</a></li>
 </ul>
-<h2>Documentation </h2>
+<h2>Installation </h2>
+<p>LSBPT is a Qt Widgets application developed with qt4, it has been tested under Linux ( fedora 23) and Mac OSX. It depends on several external libraries, listed below with version I used, other version libraries may also work.</p>
+<ol type="1">
+<li>opencv 2.4.12.2</li>
+<li>gdal 2.0.2</li>
+<li>OpenMP (gcc-4.9.2) \ Optimal. if not enabled, there may be some warnings " ignoring pragma omp ..."</li>
+</ol>
+<p>Edit the "LSBPT.pro" in src folder to configure the library dependencies.</p>
+<h5>Linux and Mac OS X</h5>
+<p>Once you solve the dependencies , follow the instructions to compile.</p>
+<ol type="1">
+<li>git clone <a href="https://github.com/channingxiao/lsbpt.git">https://github.com/channingxiao/lsbpt.git</a></li>
+<li>cd lsbpt</li>
+<li>mkdir build</li>
+<li>cd build</li>
+<li>qmake ../src</li>
+<li>make</li>
+<li>chmox +x apps/LSBPT</li>
+</ol>
+<p>After compiling, you'll find the executable file "LSBPT" in ~/lsbpt/build/apps, simply type " path/to/LSBPT " (i.e, app/LSBPT if you are in build directory) in bash to launch the application.</p>
+<p>If you are using Qt creator, use "Open project" and select the "LSBPT.pro" under lsbpt/src ", then follow the instructions to configure and compile the project.</p>
+<h5>Windows</h5>
+<p>The installation on windows has not been tested, if you succeed to compile it on windows, please let us know.</p>
+<h2>Contact information </h2>
+<p>If you have any questions or suggestions about the software, please contact me. Email : <a href="#" onclick="location.href='mai'+'lto:'+'chu'+'nl'+'inx'+'ia'+'o18'+'@g'+'mai'+'l.'+'com'; return false;">chunl<span style="display: none;">.nosp@m.</span>inxi<span style="display: none;">.nosp@m.</span>ao18@<span style="display: none;">.nosp@m.</span>gmai<span style="display: none;">.nosp@m.</span>l.com</a></p>
 <p>Enjoy,</p>
 <p>Chunlin Xiao </p>
 </div></div><!-- contents -->
@@ -84,7 +108,7 @@ $(document).ready(function(){initNavTree('index.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 19 2016 15:14:18 for LSBPT by
+    <li class="footer">Generated on Mon Sep 19 2016 15:38:15 for LSBPT by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>
