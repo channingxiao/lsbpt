@@ -1,6 +1,0 @@
-<map id="probabilityModel::clone" name="probabilityModel::clone">
-<area shape="rect" id="node2" href="$classprobability_model.html#ac2356304ead700ea3b440261149b57cc" title="probabilityModel::probability\lModel" alt="" coords="208,5,391,47"/>
-<area shape="rect" id="node3" href="$classregion_model.html#a7f6a5d1ab86d69e213ebb81973481330" title="regionModel::setArea" alt="" coords="439,42,584,69"/>
-<area shape="rect" id="node4" href="$classprobability_model.html#a899403fad71216e06b74f8e7238d54d2" title="probabilityModel::setClass\lCosts" alt="" coords="211,123,387,164"/>
-<area shape="rect" id="node5" href="$classprobability_model.html#ac8e7520373affaa4d4134ee6ac8b153a" title="probabilityModel::setClass\lProbabilities" alt="" coords="211,188,387,229"/>
-</map>

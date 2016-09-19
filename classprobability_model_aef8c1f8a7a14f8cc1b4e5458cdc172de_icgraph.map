@@ -1,6 +1,0 @@
-<map id="probabilityModel::getClassProbability" name="probabilityModel::getClassProbability">
-<area shape="rect" id="node2" href="$classprobability_model.html#ab4cc3a47b3779fa2db1ec7ddc0bb8598" title="probabilityModel::getOrder" alt="" coords="229,5,404,32"/>
-<area shape="rect" id="node4" href="$classprobability_model.html#a1d238fa939658901dc69099d4c350637" title="probabilityModel::merge" alt="" coords="237,56,397,83"/>
-<area shape="rect" id="node3" href="$classcompound_model.html#a0d8dbce587b645bb11db48683d20df58" title="compoundModel::getOrder" alt="" coords="452,5,627,32"/>
-<area shape="rect" id="node5" href="$classcompound_model.html#a3a4f1be5ccd6230918036dcc56328033" title="compoundModel::merge" alt="" coords="459,56,620,83"/>
-</map>

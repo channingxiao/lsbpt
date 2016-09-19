@@ -1,6 +1,0 @@
-<map id="imageblock" name="imageblock">
-<area shape="rect" id="node2" href="$class_node.html" title="Node" alt="" coords="43,103,97,130"/>
-<area shape="rect" id="node3" href="$classregion_model.html" title="regionModel" alt="" coords="5,201,97,228"/>
-<area shape="rect" id="node4" href="$class_r_a_g.html" title="RAG" alt="" coords="205,103,255,130"/>
-<area shape="rect" id="node5" href="$class_edge_heap.html" title="EdgeHeap" alt="" coords="189,5,271,32"/>
-</map>

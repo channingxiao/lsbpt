@@ -1,8 +1,0 @@
-<map id="initializer::initializeRag" name="initializer::initializeRag">
-<area shape="rect" id="node2" href="$classimage.html#a12343719e8d96a4bda9c5bd6c035d52a" title="image::mergeBlockX" alt="" coords="205,5,348,32"/>
-<area shape="rect" id="node6" href="$classimage.html#aa21fc5a07af7528869425e750090b3b8" title="image::mergeBlockY" alt="" coords="205,56,348,83"/>
-<area shape="rect" id="node3" href="$classimage.html#a83026280ad6cc713ec9489ff3bd9776e" title="image::ProcessBoundaryX" alt="" coords="396,5,573,32"/>
-<area shape="rect" id="node4" href="$classimage.html#a4689c56b85c46d48ea52f0c9fa13891e" title="image::processing" alt="" coords="621,31,749,57"/>
-<area shape="rect" id="node5" href="$class_main_window.html#a9a45eb9ebe6d27bcd23677d9fbb74dd8" title="MainWindow::on_Go_clicked" alt="" coords="797,31,988,57"/>
-<area shape="rect" id="node7" href="$classimage.html#adf6b8c126649c9a40387f12b5f5f07d5" title="image::ProcessBoundaryY" alt="" coords="396,56,573,83"/>
-</map>

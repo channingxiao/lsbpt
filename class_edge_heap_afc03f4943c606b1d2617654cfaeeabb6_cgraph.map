@@ -1,9 +1,0 @@
-<map id="EdgeHeap::heapifyUp" name="EdgeHeap::heapifyUp">
-<area shape="rect" id="node2" href="$class_edge_heap.html#add248e35c4c2443246ff6c7cd654ae9f" title="EdgeHeap::edgeComparator" alt="" coords="204,107,391,133"/>
-<area shape="rect" id="node3" href="$class_node.html#a13467fc326459c1d607547b3e9470710" title="Node::getArea" alt="" coords="449,5,555,32"/>
-<area shape="rect" id="node5" href="$class_edge.html#aaaa9cb49c141b310873cd75fd493e22d" title="Edge::getNode1" alt="" coords="444,56,560,83"/>
-<area shape="rect" id="node6" href="$class_edge.html#a50017668f77ed019a5caceafbb1eb16f" title="Edge::getNode2" alt="" coords="444,107,560,133"/>
-<area shape="rect" id="node7" href="$class_node.html#aa3512938403662345b64049920d1cdaf" title="Node::getPosition" alt="" coords="439,157,565,184"/>
-<area shape="rect" id="node8" href="$class_edge.html#a3a776c1ccafacdbdb10fdedd9cb329af" title="Edge::getWeight" alt="" coords="443,208,561,235"/>
-<area shape="rect" id="node4" href="$classregion_model.html#a56b1a22f355e85211760055c7559cd1e" title="regionModel::getArea" alt="" coords="613,5,759,32"/>
-</map>

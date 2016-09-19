@@ -1,6 +1,0 @@
-<map id="io::writeNodeToCSV" name="io::writeNodeToCSV">
-<area shape="rect" id="node2" href="$class_node.html#a498a3ea76df240287b5a91aeaec2be95" title="Node::getLeftChild" alt="" coords="201,5,331,32"/>
-<area shape="rect" id="node3" href="$class_node.html#aa3512938403662345b64049920d1cdaf" title="Node::getPosition" alt="" coords="203,56,329,83"/>
-<area shape="rect" id="node4" href="$class_node.html#a531a8178f01a328bec4c4e8a3b93b67f" title="Node::getRightChild" alt="" coords="196,107,336,133"/>
-<area shape="rect" id="node5" href="$class_node.html#a3a61dca67d5ad06cacb8c48eb6374973" title="Node::isLeaf" alt="" coords="218,157,314,184"/>
-</map>

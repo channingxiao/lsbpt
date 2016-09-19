@@ -1,9 +1,0 @@
-<map id="compoundModel::printHistogram" name="compoundModel::printHistogram">
-<area shape="rect" id="node2" href="$classcompound_model.html#a3b415a65b71a0db08f189f9c351f9f80" title="compoundModel::getMeanSpectrum" alt="" coords="264,5,495,32"/>
-<area shape="rect" id="node4" href="$classcompound_model.html#ac7f2c9358e0ac7945d02d160f5999a5f" title="compoundModel::getProbability" alt="" coords="277,56,481,83"/>
-<area shape="rect" id="node6" href="$classcompound_model.html#aa843ad54b59e7a02a3b85a0b8578a750" title="compoundModel::getProbModel" alt="" coords="277,107,482,133"/>
-<area shape="rect" id="node7" href="$classhistogram_model.html#ada08ac02a2b33896ef234a8ee5756dfb" title="histogramModel::printHistogram" alt="" coords="276,157,483,184"/>
-<area shape="rect" id="node8" href="$classcompound_model.html#a362e93e0481b5a5b9a3801f505fe99d2" title="compoundModel::setProbModel" alt="" coords="277,208,482,235"/>
-<area shape="rect" id="node3" href="$classhistogram_model.html#acf84f499612ad9ce391e9c5bd58d224c" title="histogramModel::getMeanSpectrum" alt="" coords="543,5,771,32"/>
-<area shape="rect" id="node5" href="$classprobability_model.html#ad168dd659368dab81336fade44084bb8" title="probabilityModel::getProbability" alt="" coords="555,56,758,83"/>
-</map>

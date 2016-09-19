@@ -1,8 +1,0 @@
-<map id="io::writeNodeToDisk" name="io::writeNodeToDisk">
-<area shape="rect" id="node2" href="$classimageblock.html#adbafde60f699582250656ddc2ebe82e2" title="imageblock::saveToDisk" alt="" coords="195,5,361,32"/>
-<area shape="rect" id="node7" href="$classimage.html#aa04b765a3c2cc6860a22ebfbedbcd7fc" title="image::saveToDisk" alt="" coords="211,56,345,83"/>
-<area shape="rect" id="node3" href="$classimageblock.html#af3b91e3daaa8014af1239f60da6b0bf5" title="imageblock::processing" alt="" coords="409,5,568,32"/>
-<area shape="rect" id="node4" href="$classimage.html#ad5a9d767eca6f9bbb8dcb556527edf4d" title="image::ProcessTiles" alt="" coords="616,5,757,32"/>
-<area shape="rect" id="node5" href="$classimage.html#a4689c56b85c46d48ea52f0c9fa13891e" title="image::processing" alt="" coords="805,5,933,32"/>
-<area shape="rect" id="node6" href="$class_main_window.html#a9a45eb9ebe6d27bcd23677d9fbb74dd8" title="MainWindow::on_Go_clicked" alt="" coords="981,5,1172,32"/>
-</map>
