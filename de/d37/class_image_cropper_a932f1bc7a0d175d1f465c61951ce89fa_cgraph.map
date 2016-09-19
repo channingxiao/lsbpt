@@ -1,5 +1,0 @@
-<map id="ImageCropper::on_cut_clicked" name="ImageCropper::on_cut_clicked">
-<area shape="rect" id="node2" href="$de/d37/class_image_cropper.html#ab0cb97e2922370c6b95303e4bf34656f" title="ImageCropper::blockSizeCalculator\l_evenSplite" alt="" coords="204,5,432,47"/>
-<area shape="rect" id="node3" href="$de/d37/class_image_cropper.html#a440ea2f358a92ae72c57e68f4fb65823" title="ImageCropper::blockStart\lPointCalculator_evenSplite" alt="" coords="229,71,407,112"/>
-<area shape="rect" id="node4" href="$de/d37/class_image_cropper.html#a551ae2d897c1cb1a23810f8c3413c3c8" title="ImageCropper::cropImage" alt="" coords="231,137,405,163"/>
-</map>

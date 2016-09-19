@@ -1,7 +1,0 @@
-<map id="io::bestSegmentation" name="io::bestSegmentation">
-<area shape="rect" id="node2" href="$dc/dd2/classregion_model.html#ab26eb4d56d4663e98c071266382d5e1c" title="regionModel::cutCost" alt="" coords="199,5,345,32"/>
-<area shape="rect" id="node3" href="$dc/d8f/class_node.html#a498a3ea76df240287b5a91aeaec2be95" title="Node::getLeftChild" alt="" coords="207,56,337,83"/>
-<area shape="rect" id="node4" href="$dc/d8f/class_node.html#adcc7f26a2ccf3a8fcc387ed820624d99" title="Node::getModel" alt="" coords="215,107,329,133"/>
-<area shape="rect" id="node5" href="$dc/d8f/class_node.html#a531a8178f01a328bec4c4e8a3b93b67f" title="Node::getRightChild" alt="" coords="202,157,342,184"/>
-<area shape="rect" id="node6" href="$dc/d8f/class_node.html#a3a61dca67d5ad06cacb8c48eb6374973" title="Node::isLeaf" alt="" coords="224,208,320,235"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="image::selectBoarderSegments" name="image::selectBoarderSegments">
-<area shape="rect" id="node2" href="$dc/d8f/class_node.html#a9305e6376add78eafd94f198df0ee745" title="Node::setBoarderIndexX" alt="" coords="257,5,423,32"/>
-<area shape="rect" id="node3" href="$dc/d8f/class_node.html#aa969843e599c724456cc743b8b7f0f3b" title="Node::setBoarderIndexY" alt="" coords="257,56,423,83"/>
-<area shape="rect" id="node4" href="$dc/d8f/class_node.html#a8a60e0e373f3acf5a26036a0b40312a1" title="Node::setModel" alt="" coords="283,107,397,133"/>
-<area shape="rect" id="node6" href="$dc/d8f/class_node.html#a2bfcbd3b82b596744f81432f1824d522" title="Node::setPosition" alt="" coords="277,157,403,184"/>
-<area shape="rect" id="node5" href="$dc/dd2/classregion_model.html#aebdb837024f0eb627bb15742a19b9974" title="regionModel::setNode" alt="" coords="471,107,620,133"/>
-</map>
