@@ -41,6 +41,12 @@ lsbpt/src ", then follow the instructions to configure  and compile the project.
 The installation on windows has not been tested, if you succeed to compile it on windows, please let us know.
 
 
+
+Documentation
+-----------------
+
+See https://channingxiao.github.io/lsbpt/
+
 Contact information
 --------------------
 If you have any questions or suggestions about the software, please contact me.
