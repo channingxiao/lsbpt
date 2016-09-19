@@ -1,0 +1,29 @@
+<map id="regionModel::getArea" name="regionModel::getArea">
+<area shape="rect" id="node2" href="$dc/d8f/class_node.html#a13467fc326459c1d607547b3e9470710" title="Node::getArea" alt="" coords="233,132,339,159"/>
+<area shape="rect" id="node25" href="$d1/dd7/classcompound_model.html#a0d8dbce587b645bb11db48683d20df58" title="compoundModel::getOrder" alt="" coords="199,183,373,209"/>
+<area shape="rect" id="node26" href="$da/d99/classprobability_model.html#a1d238fa939658901dc69099d4c350637" title="probabilityModel::merge" alt="" coords="206,284,366,311"/>
+<area shape="rect" id="node27" href="$d1/dd7/classcompound_model.html#a3a4f1be5ccd6230918036dcc56328033" title="compoundModel::merge" alt="" coords="434,284,595,311"/>
+<area shape="rect" id="node28" href="$dc/d13/classhistogram_model.html#a2a84442dd0292f62b6ef0b35ea033790" title="histogramModel::merge" alt="" coords="207,335,365,361"/>
+<area shape="rect" id="node3" href="$d8/de9/class_edge_heap.html#add248e35c4c2443246ff6c7cd654ae9f" title="EdgeHeap::edgeComparator" alt="" coords="421,132,608,159"/>
+<area shape="rect" id="node4" href="$d8/de9/class_edge_heap.html#a09c54300b957acc0f414fd9ee6c558fa" title="EdgeHeap::heapify" alt="" coords="1263,5,1397,32"/>
+<area shape="rect" id="node15" href="$d8/de9/class_edge_heap.html#af02715f2265926338a4b33135c821a4c" title="EdgeHeap::heapifyDown" alt="" coords="656,107,823,133"/>
+<area shape="rect" id="node16" href="$d8/de9/class_edge_heap.html#a71040389a82aaff7be40c94a95afc357" title="EdgeHeap::removeAt" alt="" coords="871,107,1017,133"/>
+<area shape="rect" id="node20" href="$d8/de9/class_edge_heap.html#aed5f5e75856c0e3bcb8ccc29184a88c0" title="EdgeHeap::updateAt" alt="" coords="873,157,1015,184"/>
+<area shape="rect" id="node22" href="$d8/de9/class_edge_heap.html#afc03f4943c606b1d2617654cfaeeabb6" title="EdgeHeap::heapifyUp" alt="" coords="664,157,815,184"/>
+<area shape="rect" id="node24" href="$d8/de9/class_edge_heap.html#a12a595377687c8c568007e8cc8646665" title="EdgeHeap::isHeap" alt="" coords="673,259,805,285"/>
+<area shape="rect" id="node5" href="$d3/dd4/class_r_a_g.html#ab09eebb1b704d18b583d528e77f7604a" title="RAG::regionMerging" alt="" coords="1460,56,1600,83"/>
+<area shape="rect" id="node6" href="$d8/dd2/classimageblock.html#abcc69a8c00ad79067185c700463f8126" title="imageblock::createBPT" alt="" coords="1648,5,1807,32"/>
+<area shape="rect" id="node11" href="$d1/ded/classimage.html#a12343719e8d96a4bda9c5bd6c035d52a" title="image::mergeBlockX" alt="" coords="1863,56,2005,83"/>
+<area shape="rect" id="node13" href="$d1/ded/classimage.html#aa21fc5a07af7528869425e750090b3b8" title="image::mergeBlockY" alt="" coords="1656,107,1799,133"/>
+<area shape="rect" id="node7" href="$d8/dd2/classimageblock.html#af3b91e3daaa8014af1239f60da6b0bf5" title="imageblock::processing" alt="" coords="1855,5,2013,32"/>
+<area shape="rect" id="node8" href="$d1/ded/classimage.html#ad5a9d767eca6f9bbb8dcb556527edf4d" title="image::ProcessTiles" alt="" coords="2079,5,2221,32"/>
+<area shape="rect" id="node9" href="$d1/ded/classimage.html#a4689c56b85c46d48ea52f0c9fa13891e" title="image::processing" alt="" coords="2287,56,2415,83"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a9a45eb9ebe6d27bcd23677d9fbb74dd8" title="MainWindow::on_Go_clicked" alt="" coords="2463,56,2653,83"/>
+<area shape="rect" id="node12" href="$d1/ded/classimage.html#a83026280ad6cc713ec9489ff3bd9776e" title="image::ProcessBoundaryX" alt="" coords="2061,56,2239,83"/>
+<area shape="rect" id="node14" href="$d1/ded/classimage.html#adf6b8c126649c9a40387f12b5f5f07d5" title="image::ProcessBoundaryY" alt="" coords="2061,107,2239,133"/>
+<area shape="rect" id="node17" href="$d8/de9/class_edge_heap.html#ac36afe05c095a87767748b41dfa831a5" title="EdgeHeap::remove" alt="" coords="1065,107,1200,133"/>
+<area shape="rect" id="node19" href="$d8/de9/class_edge_heap.html#a001dc48506130f599bddb241006d2920" title="EdgeHeap::removeFront" alt="" coords="1248,56,1412,83"/>
+<area shape="rect" id="node18" href="$d3/dd4/class_r_a_g.html#aa2de492a3df037db29b0e3ccab5251ee" title="RAG::merge" alt="" coords="1283,107,1377,133"/>
+<area shape="rect" id="node21" href="$d8/de9/class_edge_heap.html#a7d8eaf4111da4c024feb5f2fb8d7cafa" title="EdgeHeap::update" alt="" coords="1067,157,1198,184"/>
+<area shape="rect" id="node23" href="$d8/de9/class_edge_heap.html#ab0a6cd317e3e6c92c0072d3211ecc24b" title="EdgeHeap::insert" alt="" coords="883,208,1005,235"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="initializer::addEdges" name="initializer::addEdges">
+<area shape="rect" id="node2" href="$d9/db2/classinitializer.html#aaa8cb78ad7655020875fa970001d899e" title="initializer::initializeRag" alt="" coords="192,31,344,57"/>
+<area shape="rect" id="node3" href="$d1/ded/classimage.html#a12343719e8d96a4bda9c5bd6c035d52a" title="image::mergeBlockX" alt="" coords="392,5,535,32"/>
+<area shape="rect" id="node7" href="$d1/ded/classimage.html#aa21fc5a07af7528869425e750090b3b8" title="image::mergeBlockY" alt="" coords="392,56,535,83"/>
+<area shape="rect" id="node4" href="$d1/ded/classimage.html#a83026280ad6cc713ec9489ff3bd9776e" title="image::ProcessBoundaryX" alt="" coords="583,5,760,32"/>
+<area shape="rect" id="node5" href="$d1/ded/classimage.html#a4689c56b85c46d48ea52f0c9fa13891e" title="image::processing" alt="" coords="808,31,936,57"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a9a45eb9ebe6d27bcd23677d9fbb74dd8" title="MainWindow::on_Go_clicked" alt="" coords="984,31,1175,57"/>
+<area shape="rect" id="node8" href="$d1/ded/classimage.html#adf6b8c126649c9a40387f12b5f5f07d5" title="image::ProcessBoundaryY" alt="" coords="583,56,760,83"/>
+</map>
