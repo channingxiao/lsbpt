@@ -49,8 +49,11 @@ See https://channingxiao.github.io/lsbpt/
 
 Contact information
 --------------------
-If you have any questions or suggestions about the software, please contact me.
-Email : chunlinxiao18@gmail.com
+If you have any questions or suggestions about the software, please contact us.
+
+Yuliya Tarabalka yuliya.tarabalka@inria.fr
+
+Chunlin Xiao  chunlinxiao18@gmail.com
 
 
 
