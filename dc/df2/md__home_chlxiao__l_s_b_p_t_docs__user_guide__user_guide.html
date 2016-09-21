@@ -76,10 +76,10 @@ $(document).ready(function(){initNavTree('dc/df2/md__home_chlxiao__l_s_b_p_t_doc
 <p>Launch the application simply by double click or with command line</p>
 <p><em>path/to/the/application/LSBPT</em></p>
 <p>an interface is showed in figure </p><div class="image">
-<img src="../../../UserGuide/figs/interface.png" alt="Interface"/>
+<img src="https://github.com/channingxiao/lsbpt/blob/master/docs/UserGuide/figs/interface.png" alt="Interface"/>
 </div>
 <p>. Click the first "..." button to select an image you want to segment and click second "..." to select a directory where you want to save the results if you want to run the segmentation with default parameter then click the button "Go", a segmentation is running. When it finishes, a dialogue like figure </p><div class="image">
-<img src="../../../UserGuide/figs/done.png" alt="Done"/>
+<img src="https://github.com/channingxiao/lsbpt/blob/master/docs/UserGuide/figs/done.png" alt="Done"/>
 </div>
 <p> pops up reminding you the segmentation has been done.</p>
 <h2>Processing a part of the image </h2>
@@ -98,7 +98,7 @@ $(document).ready(function(){initNavTree('dc/df2/md__home_chlxiao__l_s_b_p_t_doc
 <li><b>Segmentation Reg</b> Segmentation ( Classification ) regularization term.</li>
 </ol>
 <h2>Multi-scale segmentation and classification </h2>
-<p>LSBPT can extract multi-level segmentation or classification at the same time. The level is controlled by the regularization term <b>Segmentation Reg</b> . Several regularization terms can be used at the same time, separated with ";" an example showed in <a href="../../../UserGuide/figs/multi-scale.png">multi-scale</a> . A descending order is recommended though not mandatory. Results will be saved with names <em>segmentation+level.tif</em>. <em>level</em> is set starting from 0. For example, if the regularization term is set to be "10000; 50000; 2000", then "segmentation0.tif" corresponds to 50000, and "segmentation1.tif corresponds to 10000, and "segmentation2.tif" corresponds to 2000.</p>
+<p>LSBPT can extract multi-level segmentation or classification at the same time. The level is controlled by the regularization term <b>Segmentation Reg</b> . Several regularization terms can be used at the same time, separated with ";" an example showed in <a href="https://github.com/channingxiao/lsbpt/blob/master/docs/UserGuide/figs/multi-scale.png">multi-scale</a> . A descending order is recommended though not mandatory. Results will be saved with names <em>segmentation+level.tif</em>. <em>level</em> is set starting from 0. For example, if the regularization term is set to be "10000; 50000; 2000", then "segmentation0.tif" corresponds to 50000, and "segmentation1.tif corresponds to 10000, and "segmentation2.tif" corresponds to 2000.</p>
 <h2>Add probability model </h2>
 <p>When probabilities are available, we can add probability model. Double floats are used for probabilities, and they are written into binary file row-wise. Some example of the probability files are showed in <b>examples/input/probabilities</b>, check <em>loadProbabilities()</em> function in <em>imageblock</em> class for more details.. For tiling strategy, each tile has a probability file, and it is named as "i+indexX+j+indexY.dat" ( for example for a tile in the second column and third row, the name would be "i1j2.dat").</p>
 <p>To add probability model, check the check box <b>if add probability model</b>, and select the directory where the probability files are saved. The other parameters are :</p>
@@ -111,7 +111,7 @@ $(document).ready(function(){initNavTree('dc/df2/md__home_chlxiao__l_s_b_p_t_doc
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Wed Sep 21 2016 21:26:10 for LSBPT by
+    <li class="footer">Generated on Wed Sep 21 2016 21:30:42 for LSBPT by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>
